@@ -1,0 +1,34 @@
+# Build cache (regenerated automatically)
+_build/cache/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets (just in case)
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+credentials.*
+
+# Claude Code config
+.claude/
+
+# Temp working files
+*_tmp.html
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Python virtual envs
+venv/
+env/
+.venv/

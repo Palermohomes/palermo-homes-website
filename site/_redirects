@@ -1,0 +1,41 @@
+# clean-URL redirects
+/home              /                    301
+
+# Owner bio URL rename (removes "jaspal" from URL path, keeps backlink equity)
+/about/jaspal-sidhu            /about/jas-sidhu/              301
+/about/jaspal-sidhu/           /about/jas-sidhu/              301
+
+# HTTP 410 Gone for legacy WordPress spam-injected URLs (old site was hacked)
+# Google drops 410s from index 3-5x faster than 404s
+# Pattern: /collect/detail/[random-hash].shtml (20K+ URLs)
+/collect/*                  /404.html   410
+/collect                    /404.html   410
+
+# Pattern: /category/[spam-slug]/ (2.5K+ URLs)
+/category/*                 /404.html   410
+/category                   /404.html   410
+
+# Casino spam
+/casino/*                   /404.html   410
+/casino                     /404.html   410
+
+# Other WordPress legacy patterns
+/tag/*                      /404.html   410
+/tag                        /404.html   410
+/author/*                   /404.html   410
+/author                     /404.html   410
+/attachment/*               /404.html   410
+/attachment                 /404.html   410
+/page/*                     /404.html   410
+/feed/*                     /404.html   410
+/*/feed/*                   /404.html   410
+
+# .shtml spam pattern
+/*.shtml                    /404.html   410
+
+# WordPress query parameter URLs
+/?attachment_id=*           /404.html   410
+/?p=*                       /404.html   410
+/?page_id=*                 /404.html   410
+/?paged=*                   /404.html   410
+/?replytocom=*              /404.html   410

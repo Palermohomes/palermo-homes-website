@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+
+# Block legacy WordPress spam-injected URL patterns (hacked old site)
+Disallow: /collect/
+Disallow: /casino/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /author/
+
+# Standard WordPress paths (not used on static site but Google may remember)
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /wp-includes/
+Allow: /wp-includes/*.js
+Allow: /wp-includes/*.css
+Allow: /wp-includes/js/
+Allow: /wp-includes/css/
+Allow: /wp-includes/fonts/
+
+# Block WordPress query parameters
+Disallow: /?
+Disallow: /*?attachment_id=
+Disallow: /*?p=
+Disallow: /*?page_id=
+Disallow: /*?s=
+Disallow: /*?paged=
+Disallow: /*?replytocom=
+
+# Block WordPress feeds, pagination, attachments
+Disallow: /feed/
+Disallow: /*/feed/
+Disallow: /attachment/
+Disallow: /page/
+
+# Block .shtml files (spam injection pattern)
+Disallow: /*.shtml$
+
+Sitemap: https://palermohomes.com/sitemap.xml
