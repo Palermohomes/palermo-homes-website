@@ -1,0 +1,75 @@
+url,action,final_url,note
+/,KEEP,/,Kelowna custom home builder. Also carries custom homes and the Kelowna area page.
+/services/,KEEP,/services/,"Short hub page: general contracting, renovations, and a link to custom homes (the homepage)."
+/services/custom-homes/,301,/,"The homepage already owns custom homes in Kelowna. Google has never crawled this page, so nothing is lost."
+/services/general-contracting/,KEEP,/services/general-contracting/,"General contractor Kelowna. One service, one page."
+/services/renovations/,KEEP,/services/renovations/,"Home renovations Kelowna. One service, one page."
+/service-areas/,KEEP,/service-areas/,Hub page listing every area.
+/service-areas/kelowna/,301,/,Kelowna is the homepage. Google has never crawled this page.
+/service-areas/west-kelowna/,KEEP,/service-areas/west-kelowna/,Home base and the Google profile city. Shows all 8 West Kelowna projects.
+/service-areas/lake-country/,KEEP,/service-areas/lake-country/,Shows the Ledgestone Road project.
+/service-areas/lower-mainland/,KEEP,/service-areas/lower-mainland/,Kept as you asked. Shows all 10 Abbotsford projects.
+/service-areas/vernon/,KEEP,/service-areas/vernon/,"No Palermo project here yet. Jas to confirm he takes work here. If not, 301 to /service-areas/."
+/service-areas/penticton/,KEEP,/service-areas/penticton/,"No Palermo project here yet. Jas to confirm he takes work here. If not, 301 to /service-areas/."
+/service-areas/peachland/,KEEP,/service-areas/peachland/,"No Palermo project here yet. Jas to confirm he takes work here. If not, 301 to /service-areas/."
+/neighborhoods/upper-mission/,KEEP,/neighborhoods/upper-mission/,Kelowna. Also takes over Kettle Valley.
+/neighborhoods/kettle-valley/,301,/neighborhoods/upper-mission/,"Kettle Valley sits inside Upper Mission, so the two pages chase the same buyer. Indexed, so the 301 passes its signals."
+/neighborhoods/mckinley-beach/,KEEP,/neighborhoods/mckinley-beach/,"Kelowna. Separate place, no overlap."
+/neighborhoods/wilden/,KEEP,/neighborhoods/wilden/,"Kelowna. Separate place, no overlap."
+/neighborhoods/lakeview-heights/,KEEP,/neighborhoods/lakeview-heights/,West Kelowna. Shows the Cabernet Way homes.
+/neighborhoods/lakestone/,KEEP,/neighborhoods/lakestone/,Lake Country. Shows the Ledgestone Road home.
+/neighborhoods/eagle-mountain/,KEEP,/neighborhoods/eagle-mountain/,Abbotsford. Palermo's strongest local proof: 9 real homes. Takes over /projects/eagle-mountain/.
+/neighborhoods/adventure-bay/,KEEP,/neighborhoods/adventure-bay/,"Vernon. No Palermo home here yet, so it needs real local content. Keep only if Jas takes work here. If not, 301 to /service-areas/vernon/."
+/neighborhoods/predator-ridge/,KEEP,/neighborhoods/predator-ridge/,"Vernon. No Palermo home here yet, so it needs real local content. Keep only if Jas takes work here. If not, 301 to /service-areas/vernon/."
+/neighborhoods/the-rise/,KEEP,/neighborhoods/the-rise/,"Vernon. No Palermo home here yet, so it needs real local content. Keep only if Jas takes work here. If not, 301 to /service-areas/vernon/."
+/neighborhoods/naramata-bench/,KEEP,/neighborhoods/naramata-bench/,"Penticton. No Palermo home here yet, so it needs real local content. Keep only if Jas takes work here. If not, 301 to /service-areas/penticton/."
+/neighborhoods/skaha-hills/,KEEP,/neighborhoods/skaha-hills/,"Penticton. No Palermo home here yet, so it needs real local content. Keep only if Jas takes work here. If not, 301 to /service-areas/penticton/."
+/projects/,KEEP,/projects/,"The one list page. All 19 projects, with a filter by location."
+/projects/cabernet/,301,/service-areas/west-kelowna/,"Street page, 91 words. The Cabernet Way homes show on the West Kelowna page instead. Indexed, so the 301 passes its signals."
+/projects/malbec/,301,/service-areas/west-kelowna/,"Street page, 84 words. The Malbec Place homes show on the West Kelowna page instead. Indexed."
+/projects/vineyard-estates/,301,/service-areas/west-kelowna/,"Street page, 84 words. The Vineyard Estates homes show on the West Kelowna page instead. Never crawled."
+/projects/touriga/,301,/project/touriga-place-1/,"Only one project, so this is the same page as the project page. Indexed."
+/projects/ledgestone/,301,/project/lakestone/,"Same home, two URLs. Never crawled."
+/projects/west-abbotsford/,301,/project/west-abbotsford/,"Same home, two URLs. Never crawled."
+/projects/eagle-mountain/,301,/neighborhoods/eagle-mountain/,"Same place as the neighbourhood page, which is the stronger page. The 9 homes show there. Indexed."
+/project/1252/,KEEP,/project/1252/,Cabernet Way. Shows on West Kelowna and Lakeview Heights. Number slug kept so the indexed URL does not change.
+/project/cabernet-2/,KEEP,/project/cabernet-2/,Cabernet Way. Shows on West Kelowna and Lakeview Heights.
+/project/cabernet-3/,KEEP,/project/cabernet-3/,Cabernet Way. Shows on West Kelowna and Lakeview Heights.
+/project/malbec-place-1/,KEEP,/project/malbec-place-1/,Malbec Place. Shows on West Kelowna.
+/project/malbec-2/,KEEP,/project/malbec-2/,Malbec Place. Shows on West Kelowna.
+/project/touriga-place-1/,KEEP,/project/touriga-place-1/,Touriga Place. Shows on West Kelowna. Takes over /projects/touriga/.
+/project/vineyard-estates-3/,KEEP,/project/vineyard-estates-3/,Vineyard Estates. Shows on West Kelowna.
+/project/vineyard-estates-4/,KEEP,/project/vineyard-estates-4/,Vineyard Estates. Shows on West Kelowna.
+/project/lakestone/,KEEP,/project/lakestone/,Ledgestone Road. Shows on Lake Country and Lakestone. Takes over /projects/ledgestone/.
+/project/eagle-mountain-1/,KEEP,/project/eagle-mountain-1/,Eagle Mountain. Shows on Lower Mainland and Eagle Mountain.
+/project/eagle-mountain-2/,KEEP,/project/eagle-mountain-2/,Eagle Mountain. Shows on Lower Mainland and Eagle Mountain.
+/project/eagle-mountain-3/,KEEP,/project/eagle-mountain-3/,Eagle Mountain. Shows on Lower Mainland and Eagle Mountain.
+/project/eagle-mountain-4/,KEEP,/project/eagle-mountain-4/,Eagle Mountain. Shows on Lower Mainland and Eagle Mountain.
+/project/eagle-mountain-5/,KEEP,/project/eagle-mountain-5/,Eagle Mountain. Shows on Lower Mainland and Eagle Mountain.
+/project/eagle-mountain-6/,KEEP,/project/eagle-mountain-6/,Eagle Mountain. Shows on Lower Mainland and Eagle Mountain.
+/project/eagle-mountain-9/,KEEP,/project/eagle-mountain-9/,"Verado Court (2023). Jas to confirm it is a different house from /project/verado-court/ (2020). If it is the same house, 301 to verado-court."
+/project/verado-court/,KEEP,/project/verado-court/,Verado Court (2020). Shows on Lower Mainland and Eagle Mountain.
+/project/713/,KEEP,/project/713/,Eagle Summit Drive. Shows on Lower Mainland and Eagle Mountain. Number slug kept so the indexed URL does not change.
+/project/west-abbotsford/,KEEP,/project/west-abbotsford/,West Abbotsford. Shows on Lower Mainland. Takes over /projects/west-abbotsford/.
+/guides/bc-2-5-10-new-home-warranty-explained/,KEEP,/guides/bc-2-5-10-new-home-warranty-explained/,Guides are revisited later. No change now.
+/guides/custom-home-building-process-kelowna/,KEEP,/guides/custom-home-building-process-kelowna/,Guides are revisited later. No change now.
+/guides/custom-home-cost-kelowna/,KEEP,/guides/custom-home-cost-kelowna/,Guides are revisited later. No change now.
+/guides/custom-home-permits-okanagan/,KEEP,/guides/custom-home-permits-okanagan/,Guides are revisited later. No change now.
+/guides/financing-custom-home-bc/,KEEP,/guides/financing-custom-home-bc/,Guides are revisited later. No change now.
+/guides/fixed-price-vs-cost-plus-custom-home-kelowna/,KEEP,/guides/fixed-price-vs-cost-plus-custom-home-kelowna/,Guides are revisited later. No change now.
+/guides/hillside-custom-home-kelowna/,KEEP,/guides/hillside-custom-home-kelowna/,Guides are revisited later. No change now.
+/guides/how-long-to-build-custom-home-kelowna/,KEEP,/guides/how-long-to-build-custom-home-kelowna/,Guides are revisited later. No change now.
+/guides/how-to-choose-custom-home-builder-kelowna/,KEEP,/guides/how-to-choose-custom-home-builder-kelowna/,Guides are revisited later. No change now.
+/guides/,KEEP,/guides/,Guides are revisited later. No change now.
+/guides/whole-home-renovation-cost-okanagan/,KEEP,/guides/whole-home-renovation-cost-okanagan/,Guides are revisited later. No change now.
+/about/,KEEP,/about/,Keep.
+/about/jas-sidhu/,KEEP,/about/jas-sidhu/,Owner page. Live now.
+/about/jaspal-sidhu/,301,/about/jas-sidhu/,"Already live. Search Console still lists the old URL, so resubmit the sitemap."
+/awards/,KEEP,/awards/,Takes over /media/.
+/media/,301,/awards/,"Both pages are press and awards. Indexed, so the 301 passes its signals."
+/contact/,KEEP,/contact/,Keep.
+/faq/,KEEP,/faq/,Keep.
+/privacy-policy/,NEW,/privacy-policy/,"Needed because the contact form collects names, phones and emails (BC privacy law). Link in the footer and next to the form."
+/terms-and-conditions/,NEW,/terms-and-conditions/,Rules for using the site and the free consultation. Link in the footer.
+/disclaimer/,NEW,/disclaimer/,"Says cost figures, renderings and guide content are estimates, not quotes. Protects the cost guides."
+/cookie-policy/,NEW,/cookie-policy/,"Needed once Google Analytics, maps or any ad pixel goes live. Add it with the consent banner at launch."

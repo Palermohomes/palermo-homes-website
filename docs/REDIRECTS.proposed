@@ -1,0 +1,58 @@
+# Palermo Homes redirects for the redesign branch. Goes in public/_redirects (Astro copies it to the build root).
+# Netlify reads top to bottom, first match wins. Specific 301s first, wildcard 410s last.
+# Both slash and no-slash forms are listed on purpose.
+
+# Clean URL
+/home    /    301
+
+# Approved URL plan (generated from docs/URL-PLAN.csv, action 301)
+/services/custom-homes    /    301
+/services/custom-homes/    /    301
+/service-areas/kelowna    /    301
+/service-areas/kelowna/    /    301
+/neighborhoods/kettle-valley    /neighborhoods/upper-mission/    301
+/neighborhoods/kettle-valley/    /neighborhoods/upper-mission/    301
+/projects/cabernet    /service-areas/west-kelowna/    301
+/projects/cabernet/    /service-areas/west-kelowna/    301
+/projects/malbec    /service-areas/west-kelowna/    301
+/projects/malbec/    /service-areas/west-kelowna/    301
+/projects/vineyard-estates    /service-areas/west-kelowna/    301
+/projects/vineyard-estates/    /service-areas/west-kelowna/    301
+/projects/touriga    /project/touriga-place-1/    301
+/projects/touriga/    /project/touriga-place-1/    301
+/projects/ledgestone    /project/lakestone/    301
+/projects/ledgestone/    /project/lakestone/    301
+/projects/west-abbotsford    /project/west-abbotsford/    301
+/projects/west-abbotsford/    /project/west-abbotsford/    301
+/projects/eagle-mountain    /neighborhoods/eagle-mountain/    301
+/projects/eagle-mountain/    /neighborhoods/eagle-mountain/    301
+/about/jaspal-sidhu    /about/jas-sidhu/    301
+/about/jaspal-sidhu/    /about/jas-sidhu/    301
+/media    /awards/    301
+/media/    /awards/    301
+
+# Legacy hacked-site spam: 410 Gone. Keep these. robots.txt must NOT disallow these paths, or Google cannot see the 410.
+/collect/*    /404.html    410
+/collect    /404.html    410
+/category/*    /404.html    410
+/category    /404.html    410
+/casino/*    /404.html    410
+/casino    /404.html    410
+/tag/*    /404.html    410
+/tag    /404.html    410
+/author/*    /404.html    410
+/author    /404.html    410
+/attachment/*    /404.html    410
+/attachment    /404.html    410
+/page/*    /404.html    410
+/feed/*    /404.html    410
+/*/feed/*    /404.html    410
+/*.shtml    /404.html    410
+
+# Query string spam. UNVERIFIED SYNTAX: Netlify matches query parameters as a separate field.
+# The old file wrote them as /?p=*, which probably never matched. Test each with curl -I on the staging URL.
+/    p=:p    /404.html    410
+/    page_id=:id    /404.html    410
+/    attachment_id=:id    /404.html    410
+/    paged=:n    /404.html    410
+/    replytocom=:id    /404.html    410
