@@ -65,8 +65,8 @@ url,action,final_url,note
 /about/,KEEP,/about/,Keep.
 /about/jas-sidhu/,KEEP,/about/jas-sidhu/,Owner page. Live now.
 /about/jaspal-sidhu/,301,/about/jas-sidhu/,"Already live. Search Console still lists the old URL, so resubmit the sitemap."
-/awards/,KEEP,/awards/,Takes over /media/.
-/media/,301,/awards/,"Both pages are press and awards. Indexed, so the 301 passes its signals."
+/awards/,KEEP,/awards/,Keep.
+/media/,KEEP,/media/,Client wants Media and Awards kept separate.
 /contact/,KEEP,/contact/,Keep.
 /faq/,KEEP,/faq/,Keep.
 /privacy-policy/,NEW,/privacy-policy/,"Needed because the contact form collects names, phones and emails (BC privacy law). Link in the footer and next to the form."

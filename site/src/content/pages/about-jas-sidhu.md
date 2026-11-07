@@ -13,7 +13,7 @@ backgroundImages: []
 faqs: []
 mergedFrom: []
 crawlWords: 654
-wordCount: 639
+wordCount: 650
 ---
 
 Owner, Palermo Homes
@@ -82,21 +82,21 @@ If you want the full version of this philosophy applied to choosing any Kelowna 
 
 ### Guides authored on palermohomes.com
 
-- [What Is the Typical Cost to Build a Custom Home in Kelowna in 2026?](/guides/custom-home-cost-kelowna/)Palermo Homes Guide
-- [How to Choose a Custom Home Builder in Kelowna: A 2026 Guide](/guides/how-to-choose-custom-home-builder-kelowna/)Palermo Homes Guide
-- [How Long Does It Take to Build a Custom Home in Kelowna? 2026 Timeline Guide](/guides/how-long-to-build-custom-home-kelowna/)Palermo Homes Guide
-- [Fixed-Price vs Cost-Plus Contracts for Custom Homes in BC: A 2026 Guide](/guides/fixed-price-vs-cost-plus-custom-home-kelowna/)Palermo Homes Guide
-- [Hillside Custom Home Builds in Kelowna and the Okanagan: Costs, Permits, and Timeline](/guides/hillside-custom-home-kelowna/)Palermo Homes Guide
-- [Custom Home Permits in Kelowna and the Okanagan: A 2026 Guide to Fees, Timelines, and Requirements](/guides/custom-home-permits-okanagan/)Palermo Homes Guide
-- [Whole-Home Renovation Cost in Kelowna and the Okanagan: 2026 Pricing Guide](/guides/whole-home-renovation-cost-okanagan/)Palermo Homes Guide
-- [The Custom Home Building Process in Kelowna: A Phase-by-Phase 2026 Guide](/guides/custom-home-building-process-kelowna/)Palermo Homes Guide
-- [Financing a Custom Home in BC: Construction Mortgages, Progress Draws, and Builders Lien Act Holdback](/guides/financing-custom-home-bc/)Palermo Homes Guide
+- [What Is the Typical Cost to Build a Custom Home in Kelowna in 2026?](/guides/custom-home-cost-kelowna/) Palermo Homes Guide
+- [How to Choose a Custom Home Builder in Kelowna: A 2026 Guide](/guides/how-to-choose-custom-home-builder-kelowna/) Palermo Homes Guide
+- [How Long Does It Take to Build a Custom Home in Kelowna? 2026 Timeline Guide](/guides/how-long-to-build-custom-home-kelowna/) Palermo Homes Guide
+- [Fixed-Price vs Cost-Plus Contracts for Custom Homes in BC: A 2026 Guide](/guides/fixed-price-vs-cost-plus-custom-home-kelowna/) Palermo Homes Guide
+- [Hillside Custom Home Builds in Kelowna and the Okanagan: Costs, Permits, and Timeline](/guides/hillside-custom-home-kelowna/) Palermo Homes Guide
+- [Custom Home Permits in Kelowna and the Okanagan: A 2026 Guide to Fees, Timelines, and Requirements](/guides/custom-home-permits-okanagan/) Palermo Homes Guide
+- [Whole-Home Renovation Cost in Kelowna and the Okanagan: 2026 Pricing Guide](/guides/whole-home-renovation-cost-okanagan/) Palermo Homes Guide
+- [The Custom Home Building Process in Kelowna: A Phase-by-Phase 2026 Guide](/guides/custom-home-building-process-kelowna/) Palermo Homes Guide
+- [Financing a Custom Home in BC: Construction Mortgages, Progress Draws, and Builders Lien Act Holdback](/guides/financing-custom-home-bc/) Palermo Homes Guide
 
 ### External publications
 
-- [Building a Custom Home in Kelowna: What Actually Matters in 2026](https://www.linkedin.com/pulse/building-custom-home-kelowna-what-actually-matters-2026-msiuc/)LinkedIn Pulse
-- [The Real Cost of Building a Custom Home in the Okanagan](https://palermohomes.substack.com/p/the-real-cost-of-building-a-custom)Palermo Homes Substack
-- [How to Choose a Custom Home Builder in Kelowna: A 2026 Guide](https://medium.com/@jordydhillon2005/how-to-choose-a-custom-home-builder-in-kelowna-a-2026-guide-079e8355d639)Medium (industry commentary)
+- [Building a Custom Home in Kelowna: What Actually Matters in 2026](https://www.linkedin.com/pulse/building-custom-home-kelowna-what-actually-matters-2026-msiuc/) LinkedIn Pulse
+- [The Real Cost of Building a Custom Home in the Okanagan](https://palermohomes.substack.com/p/the-real-cost-of-building-a-custom) Palermo Homes Substack
+- [How to Choose a Custom Home Builder in Kelowna: A 2026 Guide](https://medium.com/@jordydhillon2005/how-to-choose-a-custom-home-builder-in-kelowna-a-2026-guide-079e8355d639) Medium (industry commentary)
 
 ## Recent projects led by Jas
 

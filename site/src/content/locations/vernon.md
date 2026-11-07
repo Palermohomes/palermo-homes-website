@@ -15,7 +15,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Custom home portfolio example for Adventure Bay, Vernon BC by Palermo Homes","width":2000,"height":1195,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg","alt":"Custom home at The Rise, Vernon BC portfolio example by Palermo Homes","width":1200,"height":970,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-25.jpg","alt":"Custom home interior representative of Palermo Homes builds in Vernon and the North Okanagan","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/homepage3.jpg"
 faqs:
   - {"q":"Do you build in Vernon?","a":"Yes. Palermo Homes serves Vernon and the North Okanagan as part of our Okanagan Valley service area, drawing on 15+ years of experience across comparable hillside, golf-course, and lakefront lots in the Central Okanagan."}
   - {"q":"Do you build at Predator Ridge or The Rise?","a":"Yes. Both communities have formal Design Review Committees with specific guidelines on exterior materials, roof pitch, massing, and site integration. We prepare DRC packages up front so approvals move cleanly."}
@@ -142,12 +143,12 @@ North Okanagan
 
 ## Why Vernon clients hire Palermo.
 
-- 01**North Okanagan climate design**Vernon's 2.4 kPa snow-load zone and winter exposure demand real envelope performance. Triple-pane windows, upgraded roof framing, and thermal detailing designed for the North Okanagan, not transplanted from Kelowna specs.
-- 02**Predator Ridge and The Rise DRC fluency**Both communities run formal Design Review Committees with specific exterior, material, and site rules. We've prepared packages that get through DRC without the rework cycles that eat months.
-- 03**Jurisdiction split awareness**City of Vernon, District of Coldstream, and Regional District of North Okanagan each handle permits differently. We know which rules apply on your lot before design starts.
-- 04**Hillside and lakefront expertise**Middleton Mountain, Turtle Mountain, Silver Star Foothills hillside lots. Okanagan Landing and Kalamalka Lake foreshore builds. The geotech, retaining, and setback coordination is handled in-house.
-- 05**Protected-area Kalamalka Lake setbacks**Kalamalka Lake Protected Area regulations limit shoreline construction more than Okanagan Lake. We handle the provincial coordination so you don't get stuck mid-permit.
-- 06**One-team accountability**In-house project management, weekly progress reporting, in-house finish carpentry, and consistent trade relationships on every Vernon build.
+- 01 **North Okanagan climate design**Vernon's 2.4 kPa snow-load zone and winter exposure demand real envelope performance. Triple-pane windows, upgraded roof framing, and thermal detailing designed for the North Okanagan, not transplanted from Kelowna specs.
+- 02 **Predator Ridge and The Rise DRC fluency**Both communities run formal Design Review Committees with specific exterior, material, and site rules. We've prepared packages that get through DRC without the rework cycles that eat months.
+- 03 **Jurisdiction split awareness**City of Vernon, District of Coldstream, and Regional District of North Okanagan each handle permits differently. We know which rules apply on your lot before design starts.
+- 04 **Hillside and lakefront expertise**Middleton Mountain, Turtle Mountain, Silver Star Foothills hillside lots. Okanagan Landing and Kalamalka Lake foreshore builds. The geotech, retaining, and setback coordination is handled in-house.
+- 05 **Protected-area Kalamalka Lake setbacks**Kalamalka Lake Protected Area regulations limit shoreline construction more than Okanagan Lake. We handle the provincial coordination so you don't get stuck mid-permit.
+- 06 **One-team accountability**In-house project management, weekly progress reporting, in-house finish carpentry, and consistent trade relationships on every Vernon build.
 
 *What we build in Vernon*
 

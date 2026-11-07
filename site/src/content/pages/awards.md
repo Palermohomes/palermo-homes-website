@@ -16,12 +16,13 @@ images:
   - {"src":"/wp-content/uploads/2020/03/TCP_6576.jpg","alt":"CHBA Fraser Valley Housing Awards of Excellence event","width":1600,"height":1068,"role":"content"}
   - {"src":"/wp-content/uploads/2020/03/TCP_1620.jpg","alt":"CHBA award trophy for Best Master Suite","width":1600,"height":1068,"role":"content"}
   - {"src":"/wp-content/uploads/2020/03/TCP_6586.jpg","alt":"Custom home builder award ceremony in Abbotsford BC","width":801,"height":1200,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2020/03/TCP_1084.jpg"
+  - "/wp-content/uploads/2020/03/TCP_6696.jpg"
 faqs: []
-mergedFrom:
-  - "/media/"
+mergedFrom: []
 crawlWords: 155
-wordCount: 337
+wordCount: 155
 ---
 
 *Awards · Palermo Homes*
@@ -38,11 +39,11 @@ Palermo Homes is an award-winning custom home builder based in Kelowna, BC. Reco
 
 Feb 22, 2020 · Airside Event Spaces, Abbotsford BC
 
-- WinnerBest Master Suite
-- Top 3 FinalistCustom Home Builder of the Year
-- Top 3 FinalistBest Custom Home ($1M-$1.5M)
-- Top 3 FinalistBest Kitchen
-- Top 3 FinalistBest Outdoor Living Space
+- Winner Best Master Suite
+- Top 3 Finalist Custom Home Builder of the Year
+- Top 3 Finalist Best Custom Home ($1M-$1.5M)
+- Top 3 Finalist Best Kitchen
+- Top 3 Finalist Best Outdoor Living Space
 
 ![CHBA Fraser Valley Housing Awards of Excellence Winner](/wp-content/uploads/2020/03/Winner_Goldblack-1.jpg)
 
@@ -71,43 +72,3 @@ Feb 22, 2020 · Airside Event Spaces, Abbotsford BC
 Tell us about your project. We'll book a no-pressure consultation.
 
 [Start a conversation](/contact/)
-
-## In the media
-
-<!-- moved from /media/ -->
-
-*Media & Press · Palermo Homes*
-
-Featured on Hometown Heroes Lottery, West Coast Homes, and Live Like a Millionaire. Custom home builder based in Kelowna, BC.
-
-### Featured coverage of Palermo Homes across BC's home building media.
-
-Palermo Homes is an award-winning custom home builder in Kelowna, BC, featured on Hometown Heroes Lottery, West Coast Homes, and Live Like a Millionaire for custom homes across Kelowna, Lake Country, Abbotsford, and the Fraser Valley.
-
-*Featured videos*
-
-### Watch Palermo Homes on TV and lottery grand-prize features.
-
-Hometown Heroes Lottery · 2022
-
-#### Living Large in Lake Country
-
-Palermo Homes' Hometown Heroes Lottery grand-prize custom home on Ledgestone Road, Lake Country, BC.
-
-Millionaire Lottery · Abbotsford
-
-#### Live Like a Millionaire: Abbotsford, B.C.
-
-Palermo Homes custom home featured in the Millionaire Lottery Live Like a Millionaire campaign in Abbotsford, BC.
-
-West Coast Homes · Eagle Mountain
-
-#### Valley Views from Abbotsford's Eagle Mountain
-
-Palermo Homes custom hillside build featured on West Coast Homes, Eagle Mountain in Abbotsford, BC.
-
-West Coast Homes · Eagle Mountain
-
-#### Views and Big Skies at Abbotsford's Eagle Mountain
-
-Second Palermo Homes custom home featured on West Coast Homes, Eagle Mountain in Abbotsford, BC.

@@ -30,6 +30,7 @@ const base = {
   images: z.array(image),
   backgroundImages: z.array(z.string()).default([]),
   faqs: z.array(faq),
+  embeds: z.array(z.object({ src: z.string().url(), title: z.string() })).optional(),
   related: z.array(z.string()).default([]),
   mergedFrom: z.array(z.string()),
   crawlWords: z.number().nullable().optional(),

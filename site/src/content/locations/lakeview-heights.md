@@ -13,7 +13,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Lakeview Heights custom home view corridor over Okanagan Lake, West Kelowna, BC","width":2060,"height":1545,"role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Modern two-storey hillside custom home exterior at dusk by Palermo Homes on Cabernet Way, West Kelowna, with stone and black cladding and Okanagan Lake in the background","width":2000,"height":1333,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-07.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Lakeview Heights?","a":"Most Lakeview Heights custom builds run $2M and up for the home alone, which pencils out around $600 to $900 per square foot depending on finish level. Lot prices range from around $600K for smaller cuts on side streets to $2.5M plus for premium view lots overlooking Okanagan Lake and the west-shore vineyards. Total finished cost swings with slope, retaining, geotech, and finish level. A flatter cut vs. a steep hillside can differ by six figures on site work alone. Add City of West Kelowna permit costs, geotech (often required on hillside cuts), and any tree management costs into the budget from the start. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do Lakeview Heights homes have design guidelines?","a":"Lakeview Heights does not have a single master-planned architectural review committee the way Kettle Valley or Lakestone do. However, individual streets and newer subdivisions inside Lakeview Heights (such as some hillside phases above Boucherie Road) may have their own design covenants registered against title. Beyond that, City of West Kelowna zoning bylaws, hillside development permits, and standard building code apply. On steep or hillside lots, geotechnical assessment and hillside development permits are typically required and can affect design (foundation type, retaining, drainage). We check every lot for registered covenants at the design stage and manage all City of West Kelowna submissions on your behalf."}
@@ -129,11 +130,11 @@ Portfolio · Palermo Homes
 
 ## Why Lakeview Heights clients hire Palermo.
 
-- 01**Home turf**Palermo Homes is based in West Kelowna. Lakeview Heights is our neighbourhood. We know every inspector, every geotech firm, every trade that runs Boucherie Road, and how the west-shore soil behaves.
-- 02**West-shore view corridor experience**Almost every Lakeview Heights lot orients around the Okanagan Lake view. We design floor plans around glazing ratios, deck placement, and roof profile that captures the water without overheating the house in July afternoon sun.
-- 03**Hillside and slope experience**Lakeview Heights lots sit on Boucherie's flank. Retaining, drainage, foundation stepping, and structural engineering carry weight here. We've been doing hillside custom work for over 15 years.
-- 04**City of West Kelowna permits**West Kelowna's permit and inspection process is its own animal. Different from City of Kelowna. We've been through hundreds of it and we know how to move a file through without bounces.
-- 05**Wine country aesthetic**Lakeview Heights homes carry a specific West Coast wine-country design language: stone, timber, deep overhangs, patios oriented for lake views and outdoor entertaining. It's the finish standard we build to every time.
+- 01 **Home turf**Palermo Homes is based in West Kelowna. Lakeview Heights is our neighbourhood. We know every inspector, every geotech firm, every trade that runs Boucherie Road, and how the west-shore soil behaves.
+- 02 **West-shore view corridor experience**Almost every Lakeview Heights lot orients around the Okanagan Lake view. We design floor plans around glazing ratios, deck placement, and roof profile that captures the water without overheating the house in July afternoon sun.
+- 03 **Hillside and slope experience**Lakeview Heights lots sit on Boucherie's flank. Retaining, drainage, foundation stepping, and structural engineering carry weight here. We've been doing hillside custom work for over 15 years.
+- 04 **City of West Kelowna permits**West Kelowna's permit and inspection process is its own animal. Different from City of Kelowna. We've been through hundreds of it and we know how to move a file through without bounces.
+- 05 **Wine country aesthetic**Lakeview Heights homes carry a specific West Coast wine-country design language: stone, timber, deep overhangs, patios oriented for lake views and outdoor entertaining. It's the finish standard we build to every time.
 
 *What we build in Lakeview Heights*
 

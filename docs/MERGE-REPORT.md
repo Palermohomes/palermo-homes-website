@@ -2,7 +2,7 @@
 
 Written by `scripts/extract-content.mjs`. Rerun the script to refresh it.
 
-Twelve URLs in docs/URL-PLAN.csv are 301s. None of them gets a page or a content file. Before dropping each one, its useful text, headings, FAQs and images were moved into the target page's content file.
+11 rows in docs/URL-PLAN.csv are 301s: 10 old pages whose text was merged, plus the Jas Sidhu rename (`/about/jaspal-sidhu/`, which has no old page). None of them gets a page or a content file. Before dropping each page, its useful text, headings, FAQs and images were moved into the target page's content file. `/media/` is not in this list: the client wants Media and Awards kept as two separate pages.
 
 How it was done:
 
@@ -26,7 +26,6 @@ How it was done:
 | 9 | `/projects/west-abbotsford/` | `/project/west-abbotsford/` | 28 words of text and headings | 3 project card line(s) (home title links, home counts, location labels): rebuilt automatically as projects in this place<br>sections dropped as navigation or calls to action: pv-hero, pv-cta<br>old H1 "West Abbotsford" (title and H1 are replaced by the target's) |
 | 10 | `/projects/eagle-mountain/` | `/neighborhoods/eagle-mountain/` | 44 words of text and headings | image already on its project page: /wp-content/uploads/2020/05/PAL_Projects_NewHouse_FEATURE.jpg<br>image already on its project page: /wp-content/uploads/2023/08/WhatsApp-Image-2026-01-22-at-22.41.31-6.jpeg<br>image already on its project page: /wp-content/uploads/2019/07/PAL_Projects_GreenChairs_Row1a.jpg<br>image already on its project page: /wp-content/uploads/2021/10/PAL_Projects_Verado_FEATURE211005.jpg<br>image already on its project page: /wp-content/uploads/2019/06/PAL_Projects_EagleSummit_FEATURE.jpg<br>image already on its project page: /wp-content/uploads/2019/06/2773-Aquila-Drive-Abbotsford-1.jpg<br>image already on its project page: /wp-content/uploads/2019/06/PAL_Projects_Mahogany_FEATURE.jpg<br>image already on its project page: /wp-content/uploads/2019/06/35624-Eagle-Peak-Drive-5.jpg<br>19 project card line(s) (home title links, home counts, location labels): rebuilt automatically as projects in this place<br>sections dropped as navigation or calls to action: pv-hero, pv-cta<br>old H1 "Eagle Mountain" (title and H1 are replaced by the target's) |
 | 11 | `/about/jaspal-sidhu/` | `/about/jas-sidhu/` | nothing | No legacy page file exists for this URL (nothing to move). |
-| 12 | `/media/` | `/awards/` | 187 words of text and headings | already on target: "Build with an award-winning Kelowna custom home builder."<br>already on target: "Tell us about your project. We'll book a no-pressure consultation."<br>old H1 "Palermo Homes in the media." (title and H1 are replaced by the target's) |
 
 ## Notes
 

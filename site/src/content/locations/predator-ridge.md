@@ -14,7 +14,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Touriga-109.jpg","alt":"Single-storey modern custom home exterior at dusk by Palermo Homes on Touriga Place, West Kelowna, with glass garage doors and a panoramic Okanagan Lake view","width":2000,"height":1333,"role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Modern two-storey hillside custom home exterior at dusk by Palermo Homes on Cabernet Way, West Kelowna, with stone and black cladding and Okanagan Lake in the background","width":2000,"height":1333,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Predator Ridge home interior by Palermo Homes","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-02.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Predator Ridge?","a":"Custom homes at Ellison Landing start from $1.4 million. Most Predator Ridge custom builds run $2M and up for the home alone, which pencils out around $650 to $950 per square foot depending on finish level. Lot prices vary widely across the 22 neighbourhoods, with Ellison Landing and premium view-corridor lots at the top end. The Ritz-Carlton Residences launching in 2026 will reset the top of the market. Total finished cost swings with slope, retaining, geotech, and finish level. Add architectural review costs (material palette, roof profile, colour approvals) and resort membership fees into the budget from the start. We provide line-item pricing up front so nothing sneaks up on you mid-build."}
   - {"q":"Do Predator Ridge homes have to follow design guidelines?","a":"Yes. Wesbild runs an architectural review process for every custom home before permits go in. Guidelines cover material palette, roof pitch, massing, exterior colour, glazing ratios, and how the home sits on the lot in relation to golf course fairways and the view corridor. Guidelines vary between the 22 neighbourhoods (Commonage, Ellison Landing, and others each have their own rules). We design inside the guidelines from the first sketch, prepare the full review package, and manage revisions with the committee."}
@@ -130,11 +131,11 @@ Predator Ridge, Vernon
 
 ## Why Predator Ridge clients hire Palermo.
 
-- 01**Resort-community design fluency**Predator Ridge runs 22 neighbourhoods each with its own architectural guidelines. We design inside those rules from the first sketch and manage the review package so nothing bounces back.
-- 02**Hillside and view-corridor experience**Predator Ridge lots are cut into the hillside above the Commonage. Retaining, drainage, and view-first orientation carry real weight. We've been doing hillside custom work for years across Upper Mission, Lakestone, and the West Kelowna wine district.
-- 03**Regional District of North Okanagan permits**Predator Ridge builds run through RDNO permits rather than City of Vernon. The process runs differently, and we know the timelines and inspectors on the file.
-- 04**Golf-course and lake-view design**Every early decision starts with what sits outside the window. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where the golf course, hills, and Okanagan Lake sit from each room.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Predator Ridge homes hold their value because the neighbours (and now the Ritz-Carlton) set a high bar and we match it.
+- 01 **Resort-community design fluency**Predator Ridge runs 22 neighbourhoods each with its own architectural guidelines. We design inside those rules from the first sketch and manage the review package so nothing bounces back.
+- 02 **Hillside and view-corridor experience**Predator Ridge lots are cut into the hillside above the Commonage. Retaining, drainage, and view-first orientation carry real weight. We've been doing hillside custom work for years across Upper Mission, Lakestone, and the West Kelowna wine district.
+- 03 **Regional District of North Okanagan permits**Predator Ridge builds run through RDNO permits rather than City of Vernon. The process runs differently, and we know the timelines and inspectors on the file.
+- 04 **Golf-course and lake-view design**Every early decision starts with what sits outside the window. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where the golf course, hills, and Okanagan Lake sit from each room.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Predator Ridge homes hold their value because the neighbours (and now the Ritz-Carlton) set a high bar and we match it.
 
 *What we build in Predator Ridge*
 

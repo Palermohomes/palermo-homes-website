@@ -13,7 +13,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/1587-Malbec-14.jpg","alt":"Featured modern lakeview custom home on Malbec Place, West Kelowna by Palermo Homes","width":2000,"height":1334,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Modern hillside custom home on Cabernet Way in Lakeview Heights, West Kelowna","width":2000,"height":1195,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Touriga-109.jpg","alt":"Modern lakeview custom home on Touriga Place, West Kelowna by Palermo Homes","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-02.jpg"
 faqs:
   - {"q":"Do you build in the West Kelowna wine district?","a":"Yes. It's our most active market. We've completed multiple custom homes on Cabernet Way, Malbec Place, Touriga Place, and Vineyard Estates. If you're buying a lot on one of those streets, we've almost certainly built a house next to it."}
   - {"q":"How much does a lakeview custom home cost in West Kelowna?","a":"West Kelowna lakeview builds in the wine district typically start around $2M and scale up substantially based on square footage, site work, and specification level. Cabernet Way and Touriga Place lots often carry meaningful geotech and retaining costs that a flatter lot wouldn't."}
@@ -118,11 +119,11 @@ Touriga Place · West Kelowna
 
 ## Why West Kelowna clients hire Palermo.
 
-- 01**The wine district specialist**Multiple completed custom builds on Cabernet Way, Malbec Place, Touriga Place, and Vineyard Estates. We know every lot line on those streets.
-- 02**Hillside and lakeview engineering**Structural, drainage, retaining, and geotech expertise for the steep West Kelowna lots that other builders shy away from.
-- 03**District of West Kelowna permit fluency**We know the DWK permit rhythm, the geotech reports the district wants to see, and the inspectors.
-- 04**View-first orientation**Every home we design in the wine district is oriented for the view corridor first, then optimized for light, privacy, and prevailing wind.
-- 05**15+ years of custom homes**Portfolio depth means proven trade relationships and predictable pricing on the finish details that make a West Kelowna custom home.
+- 01 **The wine district specialist**Multiple completed custom builds on Cabernet Way, Malbec Place, Touriga Place, and Vineyard Estates. We know every lot line on those streets.
+- 02 **Hillside and lakeview engineering**Structural, drainage, retaining, and geotech expertise for the steep West Kelowna lots that other builders shy away from.
+- 03 **District of West Kelowna permit fluency**We know the DWK permit rhythm, the geotech reports the district wants to see, and the inspectors.
+- 04 **View-first orientation**Every home we design in the wine district is oriented for the view corridor first, then optimized for light, privacy, and prevailing wind.
+- 05 **15+ years of custom homes**Portfolio depth means proven trade relationships and predictable pricing on the finish details that make a West Kelowna custom home.
 
 *What we build in West Kelowna*
 

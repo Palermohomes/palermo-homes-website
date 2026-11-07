@@ -10,7 +10,8 @@ template: "page"
 images:
   - {"src":"/wp-content/uploads/2026/01/Cabernet-47-about.jpg","alt":"Palermo Homes custom home in Kelowna, BC","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2020/03/TCP_1620.jpg","alt":"Jas Sidhu, owner of Palermo Homes, custom home builder in West Kelowna, BC","width":1600,"height":1068,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Touriga-109.jpg"
 faqs:
   - {"q":"Where is Palermo Homes based?","a":"Palermo Homes is headquartered in Kelowna, BC. Our primary service area is Kelowna, West Kelowna, Lake Country, and Peachland, with select custom home and renovation projects across the Fraser Valley and Lower Mainland."}
   - {"q":"What kinds of projects do you take on?","a":"Fully custom new-build homes, whole-home renovations, kitchen and bathroom renovations, additions, and full-service general contracting. Every project is built to the same custom-home finish standard, regardless of scope."}
@@ -38,9 +39,9 @@ Palermo Homes is a custom home builder in Kelowna, BC. We build custom homes, re
 
 ## Three ideas that shape every home we build.
 
-- 01**Accountability**One team, one contract, one point of contact. We self-perform the trades that matter most and coordinate the rest as your general contractor, so quality stays in-house.
-- 02**Transparency**Line-item pricing from the start. Weekly progress reporting with photos and milestones. No surprises at draw stages or hand-over.
-- 03**Long-term value**Commercial-grade construction paired with design that respects the Kelowna resale market. Homes that hold their look and their value for decades.
+- 01 **Accountability**One team, one contract, one point of contact. We self-perform the trades that matter most and coordinate the rest as your general contractor, so quality stays in-house.
+- 02 **Transparency**Line-item pricing from the start. Weekly progress reporting with photos and milestones. No surprises at draw stages or hand-over.
+- 03 **Long-term value**Commercial-grade construction paired with design that respects the Kelowna resale market. Homes that hold their look and their value for decades.
 
 15+
 
@@ -64,7 +65,7 @@ Winning
 
 ### Central Okanagan · Primary
 
-Custom home builder in Kelowna, West Kelowna, Lake Country, and Peachland. Our headquarters and primary service area for custom home construction and renovations. Most of our current builds are underway here.
+Custom home builder in Kelowna , West Kelowna, Lake Country, and Peachland. Our headquarters and primary service area for custom home construction and renovations. Most of our current builds are underway here.
 
 ### Okanagan Valley
 

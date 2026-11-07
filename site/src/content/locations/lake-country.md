@@ -13,7 +13,8 @@ images:
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Main2.jpg","alt":"Featured Ledgestone Road custom home in Lake Country by Palermo Homes","width":2060,"height":1545,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2026/09/lakestone-lot-view.jpg","alt":"Lakestone community view over Okanagan Lake, Lake Country BC","width":1536,"height":2048,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Lake Country custom home interior by Palermo Homes","width":2060,"height":1545,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg"
 faqs:
   - {"q":"Do you build in Lakestone?","a":"Yes. Palermo Homes has completed custom builds inside Lakestone and on Ledgestone Road. We're familiar with the community design guidelines, the local geotech, and the way Lakestone lots want to be sited."}
   - {"q":"How much does a custom home cost in Lake Country?","a":"Most Lake Country custom builds fall in the same $600 to $1,500+ per square foot range as Central Okanagan projects, with lakefront and hillside lots at the upper end. Rural and orchard-adjacent lots sometimes need extra servicing coordination that we budget for on day one."}
@@ -115,11 +116,11 @@ Ledgestone Road · Lake Country
 
 ## Why Lake Country clients hire Palermo.
 
-- 01**Lakestone and Ledgestone Road experience**Completed custom builds inside Lakestone and on Ledgestone Road. We know the community design guidelines and the local geotech.
-- 02**Lakefront and foreshore expertise**Riparian setbacks, foreshore leases, dock coordination. We've worked through them all on Okanagan, Wood, and Kalamalka Lakes.
-- 03**District of Lake Country permitting**Fluent in the DLC permit process and the servicing coordination that Lake Country's rural lots often require.
-- 04**Orchard and view-lot design**Homes oriented for the specific view and light conditions of Lake Country's orchard, hillside, and lakefront lots.
-- 05**One-team accountability**In-house project management, in-house finish carpentry, and consistent trade relationships across every Lake Country build.
+- 01 **Lakestone and Ledgestone Road experience**Completed custom builds inside Lakestone and on Ledgestone Road. We know the community design guidelines and the local geotech.
+- 02 **Lakefront and foreshore expertise**Riparian setbacks, foreshore leases, dock coordination. We've worked through them all on Okanagan, Wood, and Kalamalka Lakes.
+- 03 **District of Lake Country permitting**Fluent in the DLC permit process and the servicing coordination that Lake Country's rural lots often require.
+- 04 **Orchard and view-lot design**Homes oriented for the specific view and light conditions of Lake Country's orchard, hillside, and lakefront lots.
+- 05 **One-team accountability**In-house project management, in-house finish carpentry, and consistent trade relationships across every Lake Country build.
 
 *What we build in Lake Country*
 

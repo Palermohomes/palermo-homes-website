@@ -28,8 +28,6 @@
 /projects/eagle-mountain/    /neighborhoods/eagle-mountain/    301
 /about/jaspal-sidhu    /about/jas-sidhu/    301
 /about/jaspal-sidhu/    /about/jas-sidhu/    301
-/media    /awards/    301
-/media/    /awards/    301
 
 # Legacy hacked-site spam: 410 Gone. Keep these. robots.txt must NOT disallow these paths, or Google cannot see the 410.
 /collect/*    /404.html    410

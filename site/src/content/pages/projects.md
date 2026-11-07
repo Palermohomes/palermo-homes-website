@@ -15,7 +15,8 @@ images:
   - {"src":"/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg","alt":"Luxury two-storey custom home exterior at dusk by Palermo Homes in Vineyard Estates, West Kelowna, with stone columns, a wide double garage, and warm interior lighting","width":1200,"height":970,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Main2.jpg","alt":"Modern two-storey walkout custom home exterior by Palermo Homes on Ledgestone Road, Lakestone, Lake Country, with wood and stucco cladding and a forested hillside backdrop","width":2060,"height":1545,"role":"content"}
   - {"src":"/wp-content/uploads/2019/06/PAL_Projects_Cambie_FEATURE-e1571985525124.jpg","alt":"Two-storey craftsman custom home exterior by Palermo Homes in West Abbotsford, with grey siding, stone accents, bay window, gabled roof, and flower gardens in bloom","width":1704,"height":1148,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-71.jpg"
 faqs: []
 mergedFrom: []
 crawlWords: 123

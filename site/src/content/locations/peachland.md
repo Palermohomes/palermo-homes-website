@@ -12,7 +12,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Lakeview custom home by Palermo Homes, representative of Peachland builds","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-21.jpg","alt":"Lakeview custom home interior representative of Palermo Homes builds in the Central Okanagan","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/1587-Malbec-14.jpg"
 faqs:
   - {"q":"Do you build in Peachland?","a":"Yes. Palermo Homes serves Peachland as part of our Central Okanagan service area. We've built extensively on comparable West Kelowna and Lake Country hillside and lakeview lots and bring the same construction standards and in-house trades to every Peachland project."}
   - {"q":"How much does a Peachland custom home cost?","a":"Peachland custom homes typically run $600 to $1,500+ per square foot depending on lot, size, finish, and complexity. Hillside benches and Beach Avenue lakefront lots tend to carry additional geotech, retaining, and site-work costs that we budget for up front rather than letting them show up as change orders."}
@@ -104,12 +105,12 @@ Central Okanagan
 
 ## Why Peachland clients hire Palermo.
 
-- 01**Steep-lot and hillside expertise**Peachland's upper benches are unforgiving. Our structural, drainage, and retaining experience across the Central Okanagan translates directly to Ponderosa, Trepanier, and the Upper Princeton benches.
-- 02**Lakefront and foreshore knowledge**Beach Avenue and Somerset Reach lakefront lots demand foreshore setback, riparian zone, and view-corridor fluency. We've done the engineering coordination on comparable Okanagan Lake projects.
-- 03**District of Peachland permit familiarity**Small-town permit offices have their own rhythm. We know the DoP OCP rules on lot coverage, height, and tree retention, and we know the local inspectors.
-- 04**ALR and zoning awareness**Several upper-bench areas sit near the Agricultural Land Reserve boundary. We flag that up front so you know what's buildable before you buy.
-- 05**View-first design orientation**Every Peachland custom home is oriented around the specific lake view, sunset angle over Squally Point, and lot-specific setback constraints.
-- 06**One team, one contract**In-house project management, in-house finish carpentry, and consistent trade relationships across every Peachland build. No subcontract chain to navigate.
+- 01 **Steep-lot and hillside expertise**Peachland's upper benches are unforgiving. Our structural, drainage, and retaining experience across the Central Okanagan translates directly to Ponderosa, Trepanier, and the Upper Princeton benches.
+- 02 **Lakefront and foreshore knowledge**Beach Avenue and Somerset Reach lakefront lots demand foreshore setback, riparian zone, and view-corridor fluency. We've done the engineering coordination on comparable Okanagan Lake projects.
+- 03 **District of Peachland permit familiarity**Small-town permit offices have their own rhythm. We know the DoP OCP rules on lot coverage, height, and tree retention, and we know the local inspectors.
+- 04 **ALR and zoning awareness**Several upper-bench areas sit near the Agricultural Land Reserve boundary. We flag that up front so you know what's buildable before you buy.
+- 05 **View-first design orientation**Every Peachland custom home is oriented around the specific lake view, sunset angle over Squally Point, and lot-specific setback constraints.
+- 06 **One team, one contract**In-house project management, in-house finish carpentry, and consistent trade relationships across every Peachland build. No subcontract chain to navigate.
 
 *What we build in Peachland*
 

@@ -13,7 +13,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2019/06/PAL_Projects_Mahogany2_FEATURE.jpg","alt":"Two-storey modern custom home exterior by Palermo Homes on Mahogany Drive, Eagle Mountain, Abbotsford, with grey board-and-batten siding, a shed roof, and a glass garage door","width":2000,"height":1334,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Palermo Homes interior finish, portfolio example for Eagle Mountain","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2019/06/PAL_Projects_Mahogany2_FEATURE.jpg"
 faqs:
   - {"q":"How much does a custom home cost on Eagle Mountain?","a":"Most Eagle Mountain custom builds run $1.5M and up for the home alone, which pencils out around $500 to $850 per square foot depending on finish level. Lot prices in the new Vicarro Skyline release start at premium levels reflecting the community pool, Su Casa Design vocabulary, and 383-acre master plan. Older Eagle Mountain phases offer more established landscaping and varied pricing. Total finished cost swings with slope, retaining, geotech, and finish level. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do Eagle Mountain homes have design guidelines?","a":"Yes, and they vary by phase. Vicarro Skyline's first phase (55 homes, groundbreaking August 2026) is designed by Abbotsford-based Su Casa Design with a defined material palette, roof profile, and colour palette that Pacific Peak Homes enforces on every submission. Older Eagle Mountain phases have their own registered design covenants. Beyond that, City of Abbotsford zoning bylaws, hillside development permits, and standard building code apply. We check every lot for phase-specific covenants at the design stage and manage all City of Abbotsford submissions on your behalf."}
@@ -130,11 +131,11 @@ Portfolio · Palermo Homes
 
 ## Why Eagle Mountain clients hire Palermo.
 
-- 01**Proven Eagle Mountain track record**Nine plus completed Palermo custom builds on Eagle Mountain including our featured Mahogany Drive home. We know the terrain, the covenants, the City of Abbotsford permit process, and the trades on the mountain.
-- 02**Hillside and view-corridor experience**Eagle Mountain lots are cut into the mountainside above Abbotsford. Retaining, drainage, and structural engineering carry real weight. We have done that work here for years.
-- 03**Fluent in Vicarro design guidelines**Vicarro Skyline's Su Casa Design vocabulary sets the aesthetic for the new release. We design inside those guidelines from the first sketch.
-- 04**City of Abbotsford permits**Abbotsford's permit and inspection process runs differently than City of Kelowna. We've been through it on multiple Eagle Mountain projects.
-- 05**Same finish standard as our Kelowna work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Eagle Mountain homes hold value because the mountain sets a specific bar, and we match it.
+- 01 **Proven Eagle Mountain track record**Nine plus completed Palermo custom builds on Eagle Mountain including our featured Mahogany Drive home. We know the terrain, the covenants, the City of Abbotsford permit process, and the trades on the mountain.
+- 02 **Hillside and view-corridor experience**Eagle Mountain lots are cut into the mountainside above Abbotsford. Retaining, drainage, and structural engineering carry real weight. We have done that work here for years.
+- 03 **Fluent in Vicarro design guidelines**Vicarro Skyline's Su Casa Design vocabulary sets the aesthetic for the new release. We design inside those guidelines from the first sketch.
+- 04 **City of Abbotsford permits**Abbotsford's permit and inspection process runs differently than City of Kelowna. We've been through it on multiple Eagle Mountain projects.
+- 05 **Same finish standard as our Kelowna work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Eagle Mountain homes hold value because the mountain sets a specific bar, and we match it.
 
 *What we build in Eagle Mountain*
 

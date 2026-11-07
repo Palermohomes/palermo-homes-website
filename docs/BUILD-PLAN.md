@@ -22,7 +22,7 @@ Done when: staging URL loads, is noindex, and the live site (`main`) is untouche
 
 - [x] Write `scripts/extract-content.mjs`. It reads the pages in `legacy/` and writes Markdown or JSON into `src/content/` with headings, body text, FAQs, image paths and alt text. Use docs/CURRENT-PAGES.csv as the checklist.
 - [x] Apply the URL plan. Create content files only for URLs whose action in docs/URL-PLAN.csv is KEEP or NEW. Never create a page or content file for a 301 URL.
-- [x] For each of the 12 redirected URLs, move the useful text, headings, FAQs and images into the target page's content file before dropping it. The target must cover the same topic or place. List what moved in `docs/MERGE-REPORT.md`.
+- [x] For each of the 11 redirect rows (10 merged pages, plus the Jas Sidhu rename, which has no old page to merge), move the useful text, headings, FAQs and images into the target page's content file before dropping it. The target must cover the same topic or place. List what moved in `docs/MERGE-REPORT.md`.
 - [x] Write `public/_redirects` now from docs/REDIRECTS.proposed: the 301s plus the 410 spam rules. Keep both slash and no-slash forms, one hop only. Phase 4 only tests and refines it.
 - [x] If Asim adds the Ahrefs or Search Console Links export, propose 301s for old URLs that have backlinks, pointing to the closest same-intent page, in docs/PROPOSED-CHANGES.md. Ask before adding any redirect that is not in docs/URL-PLAN.csv.
 - [x] Every content file gets `datePublished` (the real date from docs/CURRENT-PAGES.csv, never changed), `updated` (changes only when the content really changes) and `status`. Pages live today are `status: published`. New pages (the four legal pages) are `status: draft`. Draft pages stay out of the sitemap, the menus and all internal links, and are noindex if built. `test:urls` must fail at launch if any URL in the plan is still draft.
@@ -32,7 +32,7 @@ Done when: staging URL loads, is noindex, and the live site (`main`) is untouche
 - [x] Keep each page's `date_published` from docs/CURRENT-PAGES.csv in its content file. Add an `updated` field that starts as the old modified date and changes only on real edits.
 - [x] Write `docs/CONTENT-AUDIT.md`: for each page, word count before and a list of blocks you could not extract cleanly.
 
-Done when: every KEEP and NEW URL in docs/URL-PLAN.csv has a content file, no 301 URL has one, docs/MERGE-REPORT.md lists what moved, `public/_redirects` exists, and word counts match the crawl within 5 percent (merged targets may grow).
+Done when: every KEEP and NEW URL in docs/URL-PLAN.csv has a content file (63 files), no 301 URL has one, docs/MERGE-REPORT.md lists what moved, `public/_redirects` exists, and word counts match the crawl within 5 percent (merged targets may grow).
 
 ## Phase 1b. Design reference
 

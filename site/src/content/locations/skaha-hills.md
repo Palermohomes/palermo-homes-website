@@ -13,7 +13,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2025/12/1587-Malbec-14.jpg","alt":"Two-storey modern custom home exterior at dusk by Palermo Homes on Malbec Place, West Kelowna, with stone and wood cladding and lit interior windows","width":2000,"height":1334,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Palermo Homes interior finish, portfolio example for Skaha Hills","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/1587-Malbec-14.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Skaha Hills?","a":"Most Skaha Hills custom builds run $1.5M and up for the home alone, which pencils out around $500 to $800 per square foot depending on finish level. Lot prices range from around $400K for smaller cuts in later phases to $1.2M plus for premium view lots with the most direct Skaha Lake orientation. Skaha Hills' Mediterranean design vocabulary (stucco, tile roof, specific colour palette) adds slight cost premium over conventional builds. Community HOA fees fund the pool, clubhouse, and vineyard amenities. We provide line-item pricing up front, break out soft costs (design, permits, design review, HOA) from hard costs, and lock in fixed-price contracts where possible."}
   - {"q":"Do Skaha Hills homes have to follow design guidelines?","a":"Yes. Greyback Development's architectural review process signs off on every Skaha Hills custom home before construction begins. Guidelines cover the Mediterranean design vocabulary: stucco exterior finishes, tile roof profiles and colours, warm earth-tone colour palette, terraced hillside siting that respects neighbours' view corridors, and specific glazing and door treatments. It's stricter than most Penticton neighbourhoods and it's what maintains the cohesive Mediterranean aesthetic across the community. We design inside the guidelines from the first sketch, prepare the full design review package (site plan, elevations, material board, colour selections), and manage revisions on your behalf."}
@@ -129,11 +130,11 @@ Portfolio · Palermo Homes
 
 ## Why Skaha Hills clients hire Palermo.
 
-- 01**Fluent in Skaha Hills design guidelines**Greyback's architectural review checks the Mediterranean design vocabulary on every submission: stucco finishes, tile roof profiles, warm colour palette, terraced siting. We design inside the guidelines and handle the design review package.
-- 02**Hillside and terraced siting experience**Skaha Hills lots are cut into the mountainside overlooking Skaha Lake. Retaining, drainage, and structural engineering carry weight. We've been doing hillside custom work across the Okanagan for years.
-- 03**City of Penticton permits**Skaha Hills falls within the City of Penticton municipal boundary. City permits, inspections, and servicing coordination run differently than the Regional District. We've worked through the process.
-- 04**Community amenity coordination**Skaha Hills homeowner fees fund the community pool, clubhouse, fitness centre, and vineyard maintenance. We factor amenity access, initiation, and any phase-specific HOA into your project cost transparently.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Skaha Hills homes hold value because the community sets a specific design bar, and we build to match.
+- 01 **Fluent in Skaha Hills design guidelines**Greyback's architectural review checks the Mediterranean design vocabulary on every submission: stucco finishes, tile roof profiles, warm colour palette, terraced siting. We design inside the guidelines and handle the design review package.
+- 02 **Hillside and terraced siting experience**Skaha Hills lots are cut into the mountainside overlooking Skaha Lake. Retaining, drainage, and structural engineering carry weight. We've been doing hillside custom work across the Okanagan for years.
+- 03 **City of Penticton permits**Skaha Hills falls within the City of Penticton municipal boundary. City permits, inspections, and servicing coordination run differently than the Regional District. We've worked through the process.
+- 04 **Community amenity coordination**Skaha Hills homeowner fees fund the community pool, clubhouse, fitness centre, and vineyard maintenance. We factor amenity access, initiation, and any phase-specific HOA into your project cost transparently.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Skaha Hills homes hold value because the community sets a specific design bar, and we build to match.
 
 *What we build in Skaha Hills*
 

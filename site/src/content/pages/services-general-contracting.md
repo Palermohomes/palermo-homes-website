@@ -12,7 +12,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Modern Lakeview Custom Home on Cabernet Way, West Kelowna","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/1587-Malbec-14.jpg","alt":"Modern Lakeview Custom Home on Malbec Place, West Kelowna","width":2000,"height":1334,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg","alt":"Modern Hillside Custom Home in Vineyard Estates, West Kelowna","width":1200,"height":970,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/gc-hero-exterior.jpg"
 faqs:
   - {"q":"What does full-service general contracting include?","a":"Everything from initial budgeting and permit coordination through trade management, scheduling, on-site supervision, quality control, and final hand-over. You get one point of contact for the entire project."}
   - {"q":"Do you self-perform any trades?","a":"Yes. We keep the trades that define quality in-house (framing, finish carpentry, and site management), and coordinate hand-picked subcontractors for the specialised work. That way accountability doesn’t get lost between crews."}
@@ -40,10 +41,10 @@ Palermo is a residential general contractor in Kelowna, BC, coordinating custom 
 
 ## A GC that’s actually on-site.
 
-- 01**Transparent budgeting**Line-item pricing from the start, with change orders tracked in real time. You always know where the project stands financially.
-- 02**Weekly progress reporting**Photos, milestones, and any variance from the schedule. Delivered to your inbox every week, no chasing required.
-- 03**In-house quality control**Site supervisors on every project. We catch issues at framing so they don’t become drywall problems.
-- 04**Trade relationships that matter**The same electricians, plumbers, and finishers on every job. Consistent quality, predictable pricing.
+- 01 **Transparent budgeting**Line-item pricing from the start, with change orders tracked in real time. You always know where the project stands financially.
+- 02 **Weekly progress reporting**Photos, milestones, and any variance from the schedule. Delivered to your inbox every week, no chasing required.
+- 03 **In-house quality control**Site supervisors on every project. We catch issues at framing so they don’t become drywall problems.
+- 04 **Trade relationships that matter**The same electricians, plumbers, and finishers on every job. Consistent quality, predictable pricing.
 
 *Recent projects*
 

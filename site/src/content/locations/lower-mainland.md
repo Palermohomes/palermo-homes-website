@@ -12,7 +12,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2019/06/PAL_Projects_Mahogany2_FEATURE.jpg","alt":"Eagle Mountain Verado Court custom home by Palermo Homes in Abbotsford","width":2000,"height":1334,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-25.jpg","alt":"Custom home interior by Palermo Homes","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2019/06/PAL_Projects_Mahogany2_FEATURE.jpg"
 faqs:
   - {"q":"Do you still build in the Lower Mainland?","a":"Yes. Selectively. Our primary market is now Kelowna and the Okanagan, but we continue to take on Lower Mainland custom homes and renovations for returning clients, referrals, and the right fit. Abbotsford, Chilliwack, and Langley are all in scope."}
   - {"q":"Which Lower Mainland neighborhoods have you built in?","a":"Eagle Mountain and West Abbotsford make up most of our Lower Mainland portfolio. The Eagle Mountain community especially, where we've completed multiple builds including our Verado Court project. Chilliwack and Langley are also in scope."}
@@ -114,11 +115,11 @@ Fraser Valley
 
 ## Why Lower Mainland clients hire Palermo.
 
-- 01**Abbotsford portfolio depth**Multiple completed Eagle Mountain and West Abbotsford custom homes. We know the neighbourhoods, the permit rhythm, and the trades.
-- 02**Eagle Mountain community expertise**Repeated Eagle Mountain builds mean familiarity with the community design guidelines, the terrain, and the Aquila Drive lot geometry.
-- 03**Fraser Valley permit fluency**City of Abbotsford, City of Chilliwack, and Township of Langley. We know the permit and inspection rhythm.
-- 04**Selective engagement**Because our primary market is now Kelowna and the Okanagan, we choose Lower Mainland projects carefully. That means real focus on every build we take on.
-- 05**Same finish quality as our Okanagan builds**One-team accountability, in-house finish carpentry, and consistent trade relationships on every Lower Mainland project.
+- 01 **Abbotsford portfolio depth**Multiple completed Eagle Mountain and West Abbotsford custom homes. We know the neighbourhoods, the permit rhythm, and the trades.
+- 02 **Eagle Mountain community expertise**Repeated Eagle Mountain builds mean familiarity with the community design guidelines, the terrain, and the Aquila Drive lot geometry.
+- 03 **Fraser Valley permit fluency**City of Abbotsford, City of Chilliwack, and Township of Langley. We know the permit and inspection rhythm.
+- 04 **Selective engagement**Because our primary market is now Kelowna and the Okanagan, we choose Lower Mainland projects carefully. That means real focus on every build we take on.
+- 05 **Same finish quality as our Okanagan builds**One-team accountability, in-house finish carpentry, and consistent trade relationships on every Lower Mainland project.
 
 *What we build in Lower Mainland*
 

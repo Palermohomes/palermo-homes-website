@@ -86,7 +86,7 @@ Details in docs/SECURITY.md. The short version:
 - `/neighborhoods/<name>/`: 11 pages. Each links up to its city page (Kelowna ones link to the homepage).
 - `/projects/` is the one list page, filterable by location. `/project/<slug>/` is one finished home (19 pages). There are no street collection pages any more.
 - `/guides/` and 10 guides: carry over as they are for now. Guides get redone in a later phase.
-- Company: /about/, /about/jas-sidhu/, /awards/, /contact/, /faq/.
+- Company: /about/, /about/jas-sidhu/, /awards/, /media/, /contact/, /faq/.
 - Legal (new): /privacy-policy/, /terms-and-conditions/, /disclaimer/, /cookie-policy/. Linked from the footer on every page.
 
 ## Page and SEO rules

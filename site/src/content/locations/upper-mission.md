@@ -14,7 +14,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Modern hillside custom home facade with stone entry, Palermo Homes portfolio","width":2000,"height":1195,"role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Modern two-storey hillside custom home exterior at dusk by Palermo Homes on Cabernet Way, West Kelowna, with stone and black cladding and Okanagan Lake in the background","width":2000,"height":1333,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Upper Mission home interior by Palermo Homes","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-02.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Upper Mission?","a":"Most Upper Mission custom builds run $2M and up for the home alone, which pencils out around $600 to $900 per square foot depending on finish level. Lot prices range from around $500K for smaller Southridge or Ponds lots to $2M plus for premium Kettle Valley or Crawford Estates view lots. Total finished cost swings with slope, retaining, geotech, and finish level. A flatter lot vs. a steep hillside cut can differ by six figures on site work alone. Add sub-community design review costs (material palette, roof profile, colour approvals) into the budget from the start. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do Upper Mission homes have to follow design guidelines?","a":"It depends which sub-community you're building in. Kettle Valley has its own architectural guidelines and colour palette rooted in its neo-traditional village plan. Southridge and The Ponds each have their own submission process. Crawford Estates enforces a material palette and roofline standard. Westpointe has its own review. City of Kelowna sits above all of this with the standard building code and hillside development permits. We design inside the specific sub-community's guidelines from the first sketch and manage the review package on your behalf. That means fewer bounces, less design cost, and no surprises at permit time."}
@@ -138,11 +139,11 @@ Upper Mission, Kelowna
 
 ## Why Upper Mission clients hire Palermo.
 
-- 01**Sub-community fluency**Kettle Valley, Southridge, The Ponds, and Crawford Estates each have their own design review process and material expectations. We know how each one runs and design inside those guidelines from the start.
-- 02**Hillside and view-corridor experience**Upper Mission lots are cut into the south hillside above Okanagan Lake. Retaining walls, drainage plans, and view-first orientation carry real weight here. We've been doing hillside custom work for years across the West Kelowna wine district and Lakestone.
-- 03**City of Kelowna permit fluency**Upper Mission builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that hillside lots require.
-- 04**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Upper Mission homes hold their value because the neighbours set a high bar and we match it.
-- 05**Design that respects the view**The view corridor drives every early decision. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where the lake and mountains sit from each room.
+- 01 **Sub-community fluency**Kettle Valley, Southridge, The Ponds, and Crawford Estates each have their own design review process and material expectations. We know how each one runs and design inside those guidelines from the start.
+- 02 **Hillside and view-corridor experience**Upper Mission lots are cut into the south hillside above Okanagan Lake. Retaining walls, drainage plans, and view-first orientation carry real weight here. We've been doing hillside custom work for years across the West Kelowna wine district and Lakestone.
+- 03 **City of Kelowna permit fluency**Upper Mission builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that hillside lots require.
+- 04 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Upper Mission homes hold their value because the neighbours set a high bar and we match it.
+- 05 **Design that respects the view**The view corridor drives every early decision. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where the lake and mountains sit from each room.
 
 *What we build in Upper Mission*
 
@@ -236,10 +237,10 @@ Kettle Valley, Kelowna
 
 ### Why Kettle Valley clients hire Palermo.
 
-- 01**Neo-traditional guideline fluency**Kettle Valley's architectural review checks roof pitches, front-porch depth, material palette, garage siting, and street-relationship on every home. We design inside those rules from the first sketch and manage the submission so nothing bounces back.
-- 02**Hillside and view-corridor experience**Kettle Valley lots step down the south Upper Mission hillside above Okanagan Lake. Retaining, drainage, and view-first orientation carry real weight. We've been doing hillside custom work for years across the West Kelowna wine district and Lakestone.
-- 03**City of Kelowna permit fluency**Kettle Valley builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that Upper Mission hillside lots require.
-- 04**Walkable-village design instincts**Kettle Valley is not a subdivision of maximized garages. Front porches, human-scale facades, and how the home reads from the sidewalk all matter. We design homes that fit the village and hold their value because of it.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Kettle Valley homes hold their value because neighbours set a high bar and we match it.
+- 01 **Neo-traditional guideline fluency**Kettle Valley's architectural review checks roof pitches, front-porch depth, material palette, garage siting, and street-relationship on every home. We design inside those rules from the first sketch and manage the submission so nothing bounces back.
+- 02 **Hillside and view-corridor experience**Kettle Valley lots step down the south Upper Mission hillside above Okanagan Lake. Retaining, drainage, and view-first orientation carry real weight. We've been doing hillside custom work for years across the West Kelowna wine district and Lakestone.
+- 03 **City of Kelowna permit fluency**Kettle Valley builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that Upper Mission hillside lots require.
+- 04 **Walkable-village design instincts**Kettle Valley is not a subdivision of maximized garages. Front porches, human-scale facades, and how the home reads from the sidewalk all matter. We design homes that fit the village and hold their value because of it.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Kettle Valley homes hold their value because neighbours set a high bar and we match it.
 
 ### Custom homes in Kettle Valley, answered.

@@ -13,7 +13,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Custom hillside home portfolio example, Palermo Homes","width":2000,"height":1195,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Palermo Homes interior finish, portfolio example for Adventure Bay","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-07.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Adventure Bay?","a":"Most Adventure Bay custom builds run $1.5M and up for the home alone, which pencils out around $500 to $800 per square foot depending on finish level. Lot prices range from around $400K for smaller cuts on side streets to $1.5M plus for premium view lots overlooking Okanagan Lake. Total finished cost swings with slope, retaining, geotech, and finish level. A flatter cut vs. a steep hillside can differ by six figures on site work alone. Some lots may require well and septic (add $40K to $90K for both) depending on municipal servicing. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible."}
   - {"q":"Do Adventure Bay homes have design guidelines?","a":"Adventure Bay does not have a single master-planned architectural review committee. Individual subdivisions inside Adventure Bay may carry design covenants registered against title, particularly newer hillside phases. Beyond that, City of Vernon zoning bylaws, hillside development permits, and standard building code apply. On steep cuts, geotechnical assessment and hillside development permits are typically required. We check every lot for registered covenants at the design stage and manage all City of Vernon submissions on your behalf."}
@@ -129,11 +130,11 @@ Portfolio · Palermo Homes
 
 ## Why Adventure Bay clients hire Palermo.
 
-- 01**View-corridor design experience**Every Adventure Bay lot orients around the Okanagan Lake view. We design floor plans around glazing ratios, deck placement, roof profile, and summer solar gain so the view drives the house without cooking it in July.
-- 02**Hillside and slope experience**Adventure Bay lots are cut into the mountainside. Retaining walls, drainage, foundation stepping, and structural engineering carry weight here. We've been doing hillside custom work across the Okanagan for years.
-- 03**City of Vernon permits**Vernon's permit and inspection process is its own animal. Different from Kelowna, different from Regional District. We know the process, the inspectors, and how to move a file through without bounces.
-- 04**Rural water and septic capable**Some Adventure Bay lots may be on well and septic depending on phase and municipal servicing extent. We coordinate well drillers, septic designers, and permit submissions as part of the design phase where applicable.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Adventure Bay homes hold value because the setting is one of Vernon's premium lake-view locations, and we match the level of build the setting deserves.
+- 01 **View-corridor design experience**Every Adventure Bay lot orients around the Okanagan Lake view. We design floor plans around glazing ratios, deck placement, roof profile, and summer solar gain so the view drives the house without cooking it in July.
+- 02 **Hillside and slope experience**Adventure Bay lots are cut into the mountainside. Retaining walls, drainage, foundation stepping, and structural engineering carry weight here. We've been doing hillside custom work across the Okanagan for years.
+- 03 **City of Vernon permits**Vernon's permit and inspection process is its own animal. Different from Kelowna, different from Regional District. We know the process, the inspectors, and how to move a file through without bounces.
+- 04 **Rural water and septic capable**Some Adventure Bay lots may be on well and septic depending on phase and municipal servicing extent. We coordinate well drillers, septic designers, and permit submissions as part of the design phase where applicable.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Adventure Bay homes hold value because the setting is one of Vernon's premium lake-view locations, and we match the level of build the setting deserves.
 
 *What we build in Adventure Bay*
 

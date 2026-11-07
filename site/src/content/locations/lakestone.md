@@ -14,7 +14,8 @@ images:
   - {"src":"/wp-content/uploads/2026/09/lakestone-lot-view.jpg","alt":"Lakestone lot view over Okanagan Lake, Lake Country, BC","width":1536,"height":2048,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Main2.jpg","alt":"Modern two-storey walkout custom home exterior by Palermo Homes on Ledgestone Road, Lakestone, Lake Country, with wood and stucco cladding and a forested hillside backdrop","width":2060,"height":1545,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Lakestone custom home interior by Palermo Homes","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2022/04/PAL_220411_Main2.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Lakestone?","a":"Most Lakestone custom builds run $2.5M and up for the home alone, which pencils out around $650 to $900 per square foot depending on finish level. Lot prices start around $700K and go well past $2M for premium Waterside shoreline and Benchlands view lots. Highlands lots up Beacon Hill sit lower on price but usually carry more site work. Total finished cost swings with slope, retaining, geotech, and finish level. A flatter Waterside cut vs. a steep Highlands cut can differ by six figures on site work alone. Add ARC compliance costs (material palette, roof profile, colour approvals) and Lake Club initiation into the budget from the start. We provide line-item pricing up front, break out soft costs (design, permits, geotech, ARC package) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do Lakestone homes have to follow design guidelines?","a":"Yes. Macdonald Development's Architectural Review Committee (ARC) signs off on every custom home before permits go in. They check material palette (natural stone, wood, steel, board-and-batten), roof pitch and profile, massing and height, exterior colour range, glazing ratios, and how the home sits on the lot in relation to neighbours' view corridors. It's stricter than most Okanagan communities and it's what keeps the aesthetic consistent across Waterside, Benchlands, and Highlands. ARC approval typically runs 3 to 5 weeks from a complete submission, and revisions add time. We design inside the guidelines from the first sketch, prepare the full ARC package (site plan, elevations, material board, colour selections, landscaping plan), and manage revisions with the committee. That means fewer bounces, less design cost, and no ARC surprises when it's time to break ground."}
@@ -130,11 +131,11 @@ Lakestone, Lake Country
 
 ## Why Lakestone clients hire Palermo.
 
-- 01**Two Lakestone builds under our belt**We've delivered two custom homes here and know the Macdonald ARC process, the material palette guidelines, and how each phase sits on the mountainside.
-- 02**Hillside and view-corridor experience**Lakestone lots are cut into the mountainside above Okanagan Lake. Retaining, drainage, and structural engineering carry real weight here. We've been doing hillside custom work for years across Upper Mission and the West Kelowna wine district.
-- 03**Fluent in the design guidelines**Macdonald's Architectural Review Committee checks material palette, roof pitch, massing, and colour on every submission. We design inside the guidelines and handle the ARC package so nothing bounces back.
-- 04**District of Lake Country permits**Lake Country's permit and inspection process runs differently than City of Kelowna. We've been through it, know the timelines, and know the inspectors on the file.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Lakestone homes hold value because neighbours set a high bar, and we match it.
+- 01 **Two Lakestone builds under our belt**We've delivered two custom homes here and know the Macdonald ARC process, the material palette guidelines, and how each phase sits on the mountainside.
+- 02 **Hillside and view-corridor experience**Lakestone lots are cut into the mountainside above Okanagan Lake. Retaining, drainage, and structural engineering carry real weight here. We've been doing hillside custom work for years across Upper Mission and the West Kelowna wine district.
+- 03 **Fluent in the design guidelines**Macdonald's Architectural Review Committee checks material palette, roof pitch, massing, and colour on every submission. We design inside the guidelines and handle the ARC package so nothing bounces back.
+- 04 **District of Lake Country permits**Lake Country's permit and inspection process runs differently than City of Kelowna. We've been through it, know the timelines, and know the inspectors on the file.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Lakestone homes hold value because neighbours set a high bar, and we match it.
 
 *What we build in Lakestone*
 

@@ -13,7 +13,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Custom hillside home portfolio example, Palermo Homes","width":2000,"height":1195,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Palermo Homes interior finish, portfolio example","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-07.jpg"
 faqs:
   - {"q":"How much does a custom home cost on the Naramata Bench?","a":"Most Naramata Bench custom builds run $2M and up for the home alone, which pencils out around $650 to $950 per square foot depending on finish level and site complexity. Lot prices range from around $500K for smaller off-water Bench lots to $3M plus for premium acreage with vineyard rights or direct lake frontage. Bench lots often carry additional costs: well drilling ($15K to $30K), septic system design and install ($25K to $60K), driveway construction on steep grades ($20K to $80K), and Regional District servicing costs. Total finished cost swings with slope, retaining, geotech, and finish level. We provide line-item pricing up front, break out soft costs (design, permits, geotech, well and septic) from hard costs, and lock in fixed-price contracts where possible."}
   - {"q":"Do Naramata Bench homes have design guidelines?","a":"The Naramata Bench does not have a single master-planned architectural review committee. However, individual subdivisions may carry design covenants, and the Regional District of Okanagan-Similkameen (RDOS) zoning bylaws govern setbacks, height, and site coverage. Agricultural Land Reserve (ALR) rules apply to many Bench lots, which restrict subdivision and can affect siting. Hillside development permits and geotechnical assessment are typically required on steep cuts. We check every lot for ALR status, registered covenants, and RDOS zoning at the design stage and manage all submissions on your behalf."}
@@ -129,11 +130,11 @@ Portfolio · Palermo Homes
 
 ## Why Naramata Bench clients hire Palermo.
 
-- 01**Steep-terrain and view-corridor experience**The Bench rises steeply from the lake. Retaining, drainage, geotech, and view-first orientation are non-negotiable. We've been doing hillside custom work in Upper Mission, Lakeview Heights, and Lakestone for years.
-- 02**Wine country aesthetic**Naramata Bench homes carry a specific West Coast wine-country design language: stone, timber, deep overhangs, patios oriented for view corridors. It's the finish standard we build to.
-- 03**Regional District permits**Naramata is unincorporated. Building permits go through the Regional District of Okanagan-Similkameen (RDOS), which runs differently than City of Penticton or City of Kelowna. We manage the submission and follow-up so you're not chasing paperwork.
-- 04**Water and septic on rural lots**Many Naramata Bench lots are on well water and septic rather than municipal services. That affects design (mechanical room sizing, tank placement, drain field siting) and permits. We coordinate the well driller and septic designer as part of the design phase.
-- 05**Same finish standard as our Kelowna work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Bench homes hold value because the setting is one of the most desirable in BC, and we match the level of build the setting deserves.
+- 01 **Steep-terrain and view-corridor experience**The Bench rises steeply from the lake. Retaining, drainage, geotech, and view-first orientation are non-negotiable. We've been doing hillside custom work in Upper Mission, Lakeview Heights, and Lakestone for years.
+- 02 **Wine country aesthetic**Naramata Bench homes carry a specific West Coast wine-country design language: stone, timber, deep overhangs, patios oriented for view corridors. It's the finish standard we build to.
+- 03 **Regional District permits**Naramata is unincorporated. Building permits go through the Regional District of Okanagan-Similkameen (RDOS), which runs differently than City of Penticton or City of Kelowna. We manage the submission and follow-up so you're not chasing paperwork.
+- 04 **Water and septic on rural lots**Many Naramata Bench lots are on well water and septic rather than municipal services. That affects design (mechanical room sizing, tank placement, drain field siting) and permits. We coordinate the well driller and septic designer as part of the design phase.
+- 05 **Same finish standard as our Kelowna work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Bench homes hold value because the setting is one of the most desirable in BC, and we match the level of build the setting deserves.
 
 *What we build in Naramata Bench*
 

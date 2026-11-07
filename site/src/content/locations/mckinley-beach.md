@@ -14,7 +14,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Modern hillside custom home facade with stone entry, Palermo Homes portfolio","width":2000,"height":1195,"role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Modern two-storey hillside custom home exterior at dusk by Palermo Homes on Cabernet Way, West Kelowna, with stone and black cladding and Okanagan Lake in the background","width":2000,"height":1333,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom McKinley Beach home interior by Palermo Homes","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-02.jpg"
 faqs:
   - {"q":"How much does a custom home cost in McKinley Beach?","a":"Most McKinley Beach custom builds run $1.8M and up for the home alone, which pencils out around $600 to $900 per square foot depending on finish level. Custom lot prices start around $310K for hillside lots and rise significantly for premium waterfront and beach-access lots. Total finished cost swings with slope, retaining, geotech, and finish level. Add architectural review costs (material palette, roof profile, colour approvals) into the budget from the start. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do McKinley Beach homes have to follow design guidelines?","a":"Yes. GGroup Development and NADG run an architectural review process for every custom home before permits go in. Guidelines cover material palette, roof pitch, massing, exterior colour, glazing ratios, and how the home sits on the lot in relation to the lake view corridor. Guidelines vary between the six enclaves. We design inside the guidelines from the first sketch, prepare the full review package, and manage revisions with the committee so nothing bounces back."}
@@ -130,11 +131,11 @@ McKinley Beach, Kelowna
 
 ## Why McKinley Beach clients hire Palermo.
 
-- 01**Lakefront and hillside experience**McKinley Beach lots step down from Highway 97 toward Okanagan Lake. Retaining, drainage, and view-first orientation carry real weight. We've been doing hillside custom work for years across Upper Mission, Lakestone, and the West Kelowna wine district.
-- 02**Enclave-specific design review**McKinley Beach runs six enclaves across the first three phases, each with its own guidelines. We design inside those rules from the first sketch and manage the review package so nothing bounces back.
-- 03**City of Kelowna permit fluency**McKinley Beach builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that hillside-to-lakefront lots require.
-- 04**View-corridor design**Every early decision starts with the lake. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where Okanagan Lake sits from each room.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. McKinley Beach homes hold their value because the neighbours set a high bar and we match it.
+- 01 **Lakefront and hillside experience**McKinley Beach lots step down from Highway 97 toward Okanagan Lake. Retaining, drainage, and view-first orientation carry real weight. We've been doing hillside custom work for years across Upper Mission, Lakestone, and the West Kelowna wine district.
+- 02 **Enclave-specific design review**McKinley Beach runs six enclaves across the first three phases, each with its own guidelines. We design inside those rules from the first sketch and manage the review package so nothing bounces back.
+- 03 **City of Kelowna permit fluency**McKinley Beach builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that hillside-to-lakefront lots require.
+- 04 **View-corridor design**Every early decision starts with the lake. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where Okanagan Lake sits from each room.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. McKinley Beach homes hold their value because the neighbours set a high bar and we match it.
 
 *What we build in McKinley Beach*
 

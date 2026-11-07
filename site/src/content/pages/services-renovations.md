@@ -9,7 +9,8 @@ status: "published"
 template: "page"
 images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-25.jpg","alt":"Custom home renovation interior finish in West Kelowna by Palermo Homes","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2023/08/Vineyard-Estates-3-Re-Sized-Photo_2.jpg"
 faqs:
   - {"q":"What kinds of home renovations do you take on?","a":"Everything from whole-home renovations and additions to kitchens, bathrooms, exteriors, and basement suites. If it needs custom-home finish quality, we take it on. Our team is best suited to substantial renovations rather than small repair work."}
   - {"q":"Do you renovate in Kelowna and West Kelowna?","a":"Yes. Renovations across Kelowna, West Kelowna, Lake Country, and Peachland are our primary market. We also take on select projects in the Fraser Valley and Lower Mainland for returning and referred clients."}
@@ -40,11 +41,11 @@ West Kelowna
 
 ## All scopes. Custom-home quality.
 
-- 01**Whole-home renovations**Full interior overhauls, structural reconfiguration, envelope upgrades. Older Kelowna homes brought up to modern performance and finish standards.
-- 02**Kitchen renovations**Custom cabinetry, stone countertops, high-end appliances, and layouts designed around how you actually cook and entertain.
-- 03**Bathroom renovations**Primary suites, ensuites, powder rooms. Custom tile work, curbless showers, heated floors, and considered fixtures.
-- 04**Additions and expansions**Second-storey additions, primary-suite extensions, and garage-to-living conversions. Structural, envelope, and finish all handled in-house.
-- 05**Exterior renovations**Siding, roofing, windows, decks, and outdoor living spaces. Practical performance upgrades that also refresh curb appeal.
+- 01 **Whole-home renovations**Full interior overhauls, structural reconfiguration, envelope upgrades. Older Kelowna homes brought up to modern performance and finish standards.
+- 02 **Kitchen renovations**Custom cabinetry, stone countertops, high-end appliances, and layouts designed around how you actually cook and entertain.
+- 03 **Bathroom renovations**Primary suites, ensuites, powder rooms. Custom tile work, curbless showers, heated floors, and considered fixtures.
+- 04 **Additions and expansions**Second-storey additions, primary-suite extensions, and garage-to-living conversions. Structural, envelope, and finish all handled in-house.
+- 05 **Exterior renovations**Siding, roofing, windows, decks, and outdoor living spaces. Practical performance upgrades that also refresh curb appeal.
 
 *FAQ*
 

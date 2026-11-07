@@ -13,7 +13,8 @@ template: "location"
 images:
   - {"src":"/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg","alt":"Luxury two-storey custom home exterior at dusk by Palermo Homes in Vineyard Estates, West Kelowna, with stone columns, a wide double garage, and warm interior lighting","width":1200,"height":970,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Palermo Homes interior finish, portfolio example for The Rise","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg"
 faqs:
   - {"q":"How much does a custom home cost at The Rise?","a":"Most Rise custom builds run $1.5M and up for the home alone, which pencils out around $500 to $850 per square foot depending on finish level. Lot prices range from around $400K for smaller lots without direct course frontage to $1.5M plus for premium golf-course view lots with panoramic Okanagan Lake orientation. Total finished cost swings with slope, retaining, geotech, and finish level. Golf-course frontage lots often add design considerations around glazing, privacy, and course-side setbacks. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do Rise homes have to follow design guidelines?","a":"The Rise carries phase-specific design covenants registered against title, plus City of Vernon zoning bylaws, hillside development permits, and standard building code. Design covenants typically cover material palette, roof pitch and profile, massing, exterior colour range, and how homes sit on the lot in relation to neighbours' view corridors and golf-course frontage. On steep cuts, geotechnical assessment and hillside development permits are typically required and can affect design (foundation type, retaining, drainage). We check every lot for registered covenants at the design stage and manage all City of Vernon submissions on your behalf."}
@@ -129,11 +130,11 @@ Portfolio · Palermo Homes
 
 ## Why The Rise clients hire Palermo.
 
-- 01**Golf-course lot design experience**The Rise custom homes orient around the Fred Couples course and Okanagan Lake view corridor. We design floor plans that capture golf-course frontage and view corridors while managing privacy and light.
-- 02**Hillside and slope experience**The Rise lots range from gently sloping to steep hillside cuts. Retaining, drainage, foundation stepping, and structural engineering matter here. We've been doing hillside custom work across the Okanagan for years.
-- 03**City of Vernon permits**The Rise sits inside the City of Vernon. City permits, inspections, and servicing coordination run differently than the Regional District or District of Coldstream. We know the process.
-- 04**Community design coordination**The Rise has phase-specific design covenants that vary by release. We check every lot for registered covenants at the design stage and manage the review package on your behalf.
-- 05**Same finish standard as our Kelowna work**In-house cabinetry, custom finish carpentry, envelope details that hold up. The Rise homes carry high market value because the views and golf-course setting are premium, and we match the level of build the setting deserves.
+- 01 **Golf-course lot design experience**The Rise custom homes orient around the Fred Couples course and Okanagan Lake view corridor. We design floor plans that capture golf-course frontage and view corridors while managing privacy and light.
+- 02 **Hillside and slope experience**The Rise lots range from gently sloping to steep hillside cuts. Retaining, drainage, foundation stepping, and structural engineering matter here. We've been doing hillside custom work across the Okanagan for years.
+- 03 **City of Vernon permits**The Rise sits inside the City of Vernon. City permits, inspections, and servicing coordination run differently than the Regional District or District of Coldstream. We know the process.
+- 04 **Community design coordination**The Rise has phase-specific design covenants that vary by release. We check every lot for registered covenants at the design stage and manage the review package on your behalf.
+- 05 **Same finish standard as our Kelowna work**In-house cabinetry, custom finish carpentry, envelope details that hold up. The Rise homes carry high market value because the views and golf-course setting are premium, and we match the level of build the setting deserves.
 
 *What we build in The Rise*
 

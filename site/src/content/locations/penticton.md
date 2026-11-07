@@ -14,7 +14,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Custom home on the Naramata Bench, Penticton BC by Palermo Homes","width":2000,"height":1195,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/1587-Malbec-14.jpg","alt":"Modern lakeview custom home portfolio example for Skaha Hills, Palermo Homes","width":2000,"height":1334,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Touriga-12.jpg","alt":"Lakeview custom home interior representative of Palermo Homes builds in the South Okanagan","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Touriga-109.jpg"
 faqs:
   - {"q":"Do you build in Penticton?","a":"Yes. Palermo Homes serves Penticton and the South Okanagan as part of our Okanagan Valley service area, drawing on 15+ years of experience across comparable Central Okanagan hillside, lakefront, and vineyard-view builds."}
   - {"q":"Do you build on the Naramata Bench?","a":"Yes. Naramata Bench lots are steep, vineyard-adjacent, and view-driven. Most sit inside the Agricultural Land Reserve with vineyard-overlay zoning that affects dwelling size and outbuildings. We walk the lot with you before purchase to talk buildability."}
@@ -131,13 +132,13 @@ South Okanagan
 
 ## Why Penticton clients hire Palermo.
 
-- 01**Naramata Bench ALR and zoning fluency**Most of the Bench sits inside the Agricultural Land Reserve with vineyard-overlay zoning that constrains dwelling size, outbuildings, and subdivision. We check lot status before you commit.
-- 02**South Okanagan passive cooling**South Okanagan sun demands real overhang design, exterior shading, and glazing selection on west and south elevations. We plan the envelope around comfort, not just code minimum.
-- 03**RDOS and City of Penticton permit split**Naramata, Kaleden, and Okanagan Falls fall under the Regional District of Okanagan-Similkameen. Inside Penticton it's municipal. We know which office handles your lot.
-- 04**Skaha Hills HOA guidelines**Skaha Hills is a planned community with specific HOA rules on exteriors, massing, and site integration. We prep packages that get through HOA review cleanly.
-- 05**Skaha and Okanagan Lake foreshore**Waterfront lots on both lakes have foreshore, setback, and dock rules. We've navigated them on comparable Central Okanagan projects.
-- 06**Trade commute planning**Most of our South Okanagan finish trades commute from the Central Okanagan. We build it into the schedule so site days are productive, not travel buffer.
-- 07**One-team accountability**In-house project management, weekly progress reporting, in-house finish carpentry, and consistent trade relationships on every Penticton build.
+- 01 **Naramata Bench ALR and zoning fluency**Most of the Bench sits inside the Agricultural Land Reserve with vineyard-overlay zoning that constrains dwelling size, outbuildings, and subdivision. We check lot status before you commit.
+- 02 **South Okanagan passive cooling**South Okanagan sun demands real overhang design, exterior shading, and glazing selection on west and south elevations. We plan the envelope around comfort, not just code minimum.
+- 03 **RDOS and City of Penticton permit split**Naramata, Kaleden, and Okanagan Falls fall under the Regional District of Okanagan-Similkameen. Inside Penticton it's municipal. We know which office handles your lot.
+- 04 **Skaha Hills HOA guidelines**Skaha Hills is a planned community with specific HOA rules on exteriors, massing, and site integration. We prep packages that get through HOA review cleanly.
+- 05 **Skaha and Okanagan Lake foreshore**Waterfront lots on both lakes have foreshore, setback, and dock rules. We've navigated them on comparable Central Okanagan projects.
+- 06 **Trade commute planning**Most of our South Okanagan finish trades commute from the Central Okanagan. We build it into the schedule so site days are productive, not travel buffer.
+- 07 **One-team accountability**In-house project management, weekly progress reporting, in-house finish carpentry, and consistent trade relationships on every Penticton build.
 
 *What we build in Penticton*
 

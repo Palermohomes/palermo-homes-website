@@ -14,7 +14,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/Cabernet-07.jpg","alt":"Modern hillside custom home facade with stone entry, Palermo Homes portfolio","width":2000,"height":1195,"role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Cabernet-02.jpg","alt":"Modern two-storey hillside custom home exterior at dusk by Palermo Homes on Cabernet Way, West Kelowna, with stone and black cladding and Okanagan Lake in the background","width":2000,"height":1333,"role":"content"}
   - {"src":"/wp-content/uploads/2022/04/PAL_220411_Row1.jpg","alt":"Custom Wilden home interior by Palermo Homes","width":2060,"height":1545,"role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-02.jpg"
 faqs:
   - {"q":"How much does a custom home cost in Wilden?","a":"Most Wilden custom builds run $1.8M and up for the home alone, which pencils out around $600 to $900 per square foot depending on finish level. Lot prices vary widely across Wilden's 30 neighbourhoods. Executive view lots in Phase 3 push past $1.5M, while smaller cluster-neighbourhood lots start closer to $500K. Total finished cost swings with slope, retaining, geotech, and finish level. Add architectural review costs (material palette, roof profile, colour approvals) into the budget from the start. We provide line-item pricing up front, break out soft costs (design, permits, geotech) from hard costs, and lock in fixed-price contracts where possible so nothing sneaks up on you mid-build."}
   - {"q":"Do Wilden homes have to follow design guidelines?","a":"Yes. Wilden Construction Corp runs an architectural review process for every custom home before permits go in. Guidelines cover material palette, roof pitch, massing, exterior colour, glazing ratios, and how the home sits on the lot in relation to Wilden's natural landscape philosophy. Guidelines shift between phases and neighbourhood types (single-family, duplex, townhome, cluster). We design inside the guidelines from the first sketch, prepare the full review package, and manage revisions with the committee so nothing bounces back."}
@@ -130,11 +131,11 @@ Wilden, Kelowna
 
 ## Why Wilden clients hire Palermo.
 
-- 01**Master-planned community fluency**Wilden's architectural review runs on a phase-by-phase basis. Guidelines shift between neighbourhoods and release types. We know how each phase runs and design inside those rules from the first sketch.
-- 02**Glenmore Highlands hillside experience**Wilden lots are cut into the Glenmore Highlands above Okanagan Lake. Retaining, drainage, and structural engineering carry real weight. We've been doing hillside custom work for years across Upper Mission, Lakestone, and the West Kelowna wine district.
-- 03**City of Kelowna permit fluency**Wilden builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that hillside lots require.
-- 04**View-corridor design**The view corridor drives every early decision. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where Okanagan Lake and the valley sit from each room.
-- 05**Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Wilden homes hold their value because the neighbours set a high bar and we match it.
+- 01 **Master-planned community fluency**Wilden's architectural review runs on a phase-by-phase basis. Guidelines shift between neighbourhoods and release types. We know how each phase runs and design inside those rules from the first sketch.
+- 02 **Glenmore Highlands hillside experience**Wilden lots are cut into the Glenmore Highlands above Okanagan Lake. Retaining, drainage, and structural engineering carry real weight. We've been doing hillside custom work for years across Upper Mission, Lakestone, and the West Kelowna wine district.
+- 03 **City of Kelowna permit fluency**Wilden builds run through City of Kelowna permits and inspection. We know the timelines, the inspectors, and the servicing coordination that hillside lots require.
+- 04 **View-corridor design**The view corridor drives every early decision. Kitchen, primary bedroom, living room placement, glazing ratios, and roofline all get planned around where Okanagan Lake and the valley sit from each room.
+- 05 **Same finish standard as our wine-district work**In-house cabinetry, custom finish carpentry, envelope details that hold up. Wilden homes hold their value because the neighbours set a high bar and we match it.
 
 *What we build in Wilden*
 

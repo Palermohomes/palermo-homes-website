@@ -15,7 +15,8 @@ images:
   - {"src":"/wp-content/uploads/2025/12/homepage3.jpg","alt":"Modern custom home representative of Palermo Homes builds in Vernon and the North Okanagan","width":2000,"height":1195,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2025/12/Touriga-109.jpg","alt":"Custom lakeview home on Touriga Place by Palermo Homes, representative of Penticton South Okanagan builds","width":2000,"height":1333,"dimsFrom":"file","role":"content"}
   - {"src":"/wp-content/uploads/2019/06/PAL_Projects_Mahogany2_FEATURE.jpg","alt":"Custom home in Eagle Mountain, Abbotsford by Palermo Homes","width":2000,"height":1334,"dimsFrom":"file","role":"content"}
-backgroundImages: []
+backgroundImages:
+  - "/wp-content/uploads/2025/12/Cabernet-71.jpg"
 faqs:
   - {"q":"Which Okanagan city does Palermo Homes build in most often?","a":"Palermo Homes builds the majority of our custom homes in Kelowna and West Kelowna, with regular projects in Lake Country and Peachland. Kelowna, West Kelowna, Lake Country, and Peachland together form our primary Central Okanagan service area, where we complete most of our annual builds."}
   - {"q":"Does Palermo Homes build outside the Central Okanagan?","a":"Yes. Palermo Homes extends into the North Okanagan (Vernon), the South Okanagan (Penticton), and select Lower Mainland communities (Abbotsford, Chilliwack, Langley, Vancouver, West Vancouver). Projects outside the Central Okanagan are typically for returning clients, referred clients, or complex builds that fit our capability set."}
@@ -24,7 +25,7 @@ faqs:
   - {"q":"What is the farthest Palermo Homes will travel for a custom build?","a":"Our primary custom home service area is the Okanagan Valley from Vernon in the north to Penticton in the south, with a secondary Lower Mainland service area covering Abbotsford through Vancouver. Beyond that geographic range, we take on projects selectively based on scope, timeline, and client fit."}
 mergedFrom: []
 crawlWords: 678
-wordCount: 678
+wordCount: 685
 ---
 
 *Service Areas · Kelowna, BC*
@@ -47,43 +48,57 @@ Fifteen-plus years in the Okanagan and Fraser Valley means we have navigated the
 
 Service Area · Central Okanagan
 
-### [Custom Home Builder in Kelowna, BC→](/)
+### Custom Home Builder in Kelowna, BC →
+
+[More](/)
 
 ![Modern custom home on Cabernet Way in West Kelowna by Palermo Homes](/wp-content/uploads/2025/12/Cabernet-02.jpg)
 
 Service Area · Wine District
 
-### [Custom Home Builder in West Kelowna, BC→](/service-areas/west-kelowna/)
+### Custom Home Builder in West Kelowna, BC →
+
+[More](/service-areas/west-kelowna/)
 
 ![Modern custom home on Cabernet Way by Palermo Homes, representative of Lake Country lakeview builds](/wp-content/uploads/2023/08/095-1524-Cabernet-Wy-95_2.jpg)
 
 Service Area · North Okanagan
 
-### [Custom Home Builder in Lake Country, BC→](/service-areas/lake-country/)
+### Custom Home Builder in Lake Country, BC →
+
+[More](/service-areas/lake-country/)
 
 ![Lakeview custom home representative of Palermo Homes builds in Peachland and the Central Okanagan](/wp-content/uploads/2025/12/1587-Malbec-14.jpg)
 
 Service Area · Central Okanagan
 
-### [Custom Home Builder in Peachland, BC→](/service-areas/peachland/)
+### Custom Home Builder in Peachland, BC →
+
+[More](/service-areas/peachland/)
 
 ![Modern custom home representative of Palermo Homes builds in Vernon and the North Okanagan](/wp-content/uploads/2025/12/homepage3.jpg)
 
 Service Area · North Okanagan
 
-### [Custom Home Builder in Vernon, BC→](/service-areas/vernon/)
+### Custom Home Builder in Vernon, BC →
+
+[More](/service-areas/vernon/)
 
 ![Custom lakeview home on Touriga Place by Palermo Homes, representative of Penticton South Okanagan builds](/wp-content/uploads/2025/12/Touriga-109.jpg)
 
 Service Area · South Okanagan
 
-### [Custom Home Builder in Penticton, BC→](/service-areas/penticton/)
+### Custom Home Builder in Penticton, BC →
+
+[More](/service-areas/penticton/)
 
 ![Custom home in Eagle Mountain, Abbotsford by Palermo Homes](/wp-content/uploads/2019/06/PAL_Projects_Mahogany2_FEATURE.jpg)
 
 Service Area · Fraser Valley
 
-### [Custom Home Builder in Lower Mainland, BC→](/service-areas/lower-mainland/)
+### Custom Home Builder in Lower Mainland, BC →
+
+[More](/service-areas/lower-mainland/)
 
 *Why clients across the Okanagan hire Palermo*
 

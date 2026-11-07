@@ -164,10 +164,10 @@ Palermo is a custom home builder based in Kelowna, BC, building custom homes acr
 
 ### Four phases, one team, zero handoffs.
 
-- 01**Concept & feasibility**Site walk, budget alignment, and early architectural direction so nothing is a surprise at permit time.
-- 02**Design & engineering**We coordinate architect, interior designer, and structural engineer as one team. All under our project management.
-- 03**Construction**In-house trades on the work that defines quality; hand-picked specialists everywhere else. Weekly progress reporting from day one.
-- 04**Hand-over & warranty**Detailed walk-through, homeowner orientation, and a full warranty period. We stay reachable long after the keys change hands.
+- 01 **Concept & feasibility**Site walk, budget alignment, and early architectural direction so nothing is a surprise at permit time.
+- 02 **Design & engineering**We coordinate architect, interior designer, and structural engineer as one team. All under our project management.
+- 03 **Construction**In-house trades on the work that defines quality; hand-picked specialists everywhere else. Weekly progress reporting from day one.
+- 04 **Hand-over & warranty**Detailed walk-through, homeowner orientation, and a full warranty period. We stay reachable long after the keys change hands.
 
 ### Recent custom builds.
 
@@ -239,11 +239,11 @@ BC Licensed Residential Builder
 
 ### Why Kelowna clients hire Palermo.
 
-- 01**Central Okanagan portfolio depth**Fifteen-plus years building custom homes in the Central Okanagan with concentrated portfolio in West Kelowna's wine district and Lake Country. Transferable experience for any Kelowna lot.
-- 02**City of Kelowna permit familiarity**We know the City of Kelowna permit process, geotech requirements for Upper Mission and Wilden hillside lots, and the view-corridor rules that affect design on the south hillside.
-- 03**Lakeview and hillside expertise**Steep lots, view corridors, retaining walls, drainage, and slope stability. The hillside work in Upper Mission and Kettle Valley is the same engineering we do daily in West Kelowna.
-- 04**In-house project management**One contract, one point of contact. Weekly photo updates and honest schedule check-ins. Nothing for you to coordinate.
-- 05**Central Okanagan trades on speed dial**The same electricians, plumbers, framers, and finishers on every project. Consistent quality across both sides of the bridge.
-- 06**Lot walk before you buy**We walk any Kelowna lot with you to flag geotech, slope, servicing, or view-corridor issues before purchase. No cost, no obligation.
+- 01 **Central Okanagan portfolio depth**Fifteen-plus years building custom homes in the Central Okanagan with concentrated portfolio in West Kelowna's wine district and Lake Country. Transferable experience for any Kelowna lot.
+- 02 **City of Kelowna permit familiarity**We know the City of Kelowna permit process, geotech requirements for Upper Mission and Wilden hillside lots, and the view-corridor rules that affect design on the south hillside.
+- 03 **Lakeview and hillside expertise**Steep lots, view corridors, retaining walls, drainage, and slope stability. The hillside work in Upper Mission and Kettle Valley is the same engineering we do daily in West Kelowna.
+- 04 **In-house project management**One contract, one point of contact. Weekly photo updates and honest schedule check-ins. Nothing for you to coordinate.
+- 05 **Central Okanagan trades on speed dial**The same electricians, plumbers, framers, and finishers on every project. Consistent quality across both sides of the bridge.
+- 06 **Lot walk before you buy**We walk any Kelowna lot with you to flag geotech, slope, servicing, or view-corridor issues before purchase. No cost, no obligation.
 
 ### Custom homes in Kelowna, answered.

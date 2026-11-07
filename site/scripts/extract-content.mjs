@@ -108,7 +108,8 @@ function makeConverter($, state) {
         const href = fixHref($(n).attr('href'));
         const t = inner.trim();
         out += href && t ? `[${t}](${href})` : inner;
-      } else out += inner;
+      } else if (tag === 'span') out += ` ${inner} `;
+      else out += inner;
     });
     return out;
   }
@@ -162,7 +163,10 @@ function makeConverter($, state) {
       const cls = $(n).attr('class') || '';
       if (SKIP_TAGS.has(tag)) {
         if (tag === 'form') state.notes.add('form markup not extracted (rebuilt as a component later)');
-        else if (['svg', 'iframe', 'video', 'audio', 'canvas'].includes(tag)) state.notes.add(`${tag} element not extracted`);
+        else if (tag === 'iframe') {
+          state.embeds.push({ src: $(n).attr('src') || '', title: ($(n).attr('title') || '').trim() });
+          state.notes.add('iframe embeds (YouTube) saved in the embeds field, not rendered: third-party embeds need a written reason in docs/THIRD-PARTY.md');
+        } else if (['svg', 'video', 'audio', 'canvas'].includes(tag)) state.notes.add(`${tag} element not extracted`);
         return;
       }
       if (SKIP_CLASS.test(cls) || isHidden($, n)) return;
@@ -293,12 +297,16 @@ function extractPage(url) {
     .flatMap((m) => [...m[1].matchAll(/url\(['"]?([^)'"]*wp-content\/uploads[^)'"]*)['"]?\)/g)].map((x) => '/' + x[1].replace(/^\//, '').replace(/\?.*$/, '')))
     .filter((v, i, a) => a.indexOf(v) === i);
   const body = cleanDom($);
+  $('[style*="url("]', body).each((_, el) => {
+    const m = ($(el).attr('style') || '').match(/url\(['"]?([^)'"]*wp-content\/uploads[^)'"]*)['"]?\)/);
+    if (m) { const v = '/' + m[1].replace(/^(\.\.?\/)+/, '').replace(/^\//, '').replace(/\?.*$/, ''); if (!bgs.includes(v)) bgs.push(v); }
+  });
   // words "before": visible text of the cleaned page (no nav, footer, crumbs, form)
   const $c = cheerio.load($.html(body));
   $c('form').remove();
   const wordsBefore = wordsOfText(norm(cheerio.load($c('body').html().replace(/<[^>]+>/g, ' ')).text()));
 
-  const state = { images: [], faqs: [], h1s: [], chunks: [], notes: new Set() };
+  const state = { images: [], faqs: [], embeds: [], h1s: [], chunks: [], notes: new Set() };
   const conv = makeConverter($, state);
   state.cur = { cls: 'root', md: [] };
   state.chunks.push(state.cur);
@@ -359,7 +367,6 @@ const MERGES = {
   '/projects/west-abbotsford/': { to: '/project/west-abbotsford/', heading: null },
   '/projects/eagle-mountain/': { to: '/neighborhoods/eagle-mountain/', heading: 'Eagle Mountain homes' },
   '/about/jaspal-sidhu/': { to: '/about/jas-sidhu/', heading: null },
-  '/media/': { to: '/awards/', heading: 'In the media' },
 };
 
 function chunksToMd(chunks, { skip = [], demote = 0 } = {}) {
@@ -463,6 +470,7 @@ for (const r of staying) {
   fm.images = imgs;
   fm.backgroundImages = ex.bgs;
   fm.faqs = st.faqs;
+  if (st.embeds.length) fm.embeds = st.embeds;
   fm.mergedFrom = [];
   fm.crawlWords = Number(cur.words) || null;
   content[url] = { cls, fm, body, wordsBefore: ex.wordsBefore, extra: [...st.notes] };
@@ -566,7 +574,7 @@ let mr = `# Merge report
 
 Written by \`scripts/extract-content.mjs\`. Rerun the script to refresh it.
 
-Twelve URLs in docs/URL-PLAN.csv are 301s. None of them gets a page or a content file. Before dropping each one, its useful text, headings, FAQs and images were moved into the target page's content file.
+${redirects.length} rows in docs/URL-PLAN.csv are 301s: ${report.merges.length - 1} old pages whose text was merged, plus the Jas Sidhu rename (\`/about/jaspal-sidhu/\`, which has no old page). None of them gets a page or a content file. Before dropping each page, its useful text, headings, FAQs and images were moved into the target page's content file. \`/media/\` is not in this list: the client wants Media and Awards kept as two separate pages.
 
 How it was done:
 
@@ -607,7 +615,8 @@ Written by \`scripts/extract-content.mjs\`. Rerun the script to refresh it.
 
 ## What was built
 
-- ${report.files.length} content files in \`src/content/\` (${report.files.filter((f) => f.status === 'published').length} published, ${report.files.filter((f) => f.status === 'draft').length} draft). One per KEEP or NEW URL in docs/URL-PLAN.csv. None for the 12 redirected URLs.
+- ${report.files.length} content files in \`src/content/\` (${report.files.filter((f) => f.status === 'published').length} published, ${report.files.filter((f) => f.status === 'draft').length} draft). One per KEEP or NEW URL in docs/URL-PLAN.csv. None for the ${redirects.length} redirect rows.
+- Numbers: 69 current pages. 59 stay (KEEP). 10 are merged into another page. 11 redirect rows (the 10 merged pages plus the Jas Sidhu rename). 4 new legal pages. 63 URLs after launch, 63 content files. \`/media/\` and \`/awards/\` stay as two separate pages (client decision).
 - Collections: pages, locations (areas and neighbourhoods, with a \`parent\`), projects, guides. Schema in \`src/content.config.ts\`.
 - Text was extracted as it was. Nothing was rewritten. No Divi markup, scripts or classes were carried. Internal links point to final URLs.
 - Old nav, footer and breadcrumbs are not in the text. The header and footer are rebuilt from layouts.
@@ -649,6 +658,7 @@ ca += `
 9. **Titles over 60 characters (kept as they are, not changed in Phase 1):** ${longTitles.join(', ') || 'none'}.
 10. **Descriptions under 120 characters (kept as they are):** ${shortDesc.join(', ') || 'none'}.
 11. **Title, H1 and description** come from docs/CURRENT-PAGES.csv. Differences between the old HTML and the CSV found by the script: ${report.audit.filter((a) => /differs/.test(a.issue)).length || 'none'}.
+13. **YouTube embeds on \`/media/\`.** The old page has 4 YouTube iframes. They are saved in the \`embeds\` field (source and title) and are not rendered. Third-party embeds need a written reason in docs/THIRD-PARTY.md, and a plain YouTube embed sets cookies, which the launch rules forbid until a consent banner exists. Options for Phase 3: a click-to-load placeholder, a privacy-friendly embed, or plain links.
 12. **Markup choices.** "Eyebrow" labels (short labels above headings) are kept as italic lines. Fact tiles are kept as bold label lines. Card links are kept as linked headings.
 
 ## Per page
