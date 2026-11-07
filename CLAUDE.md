@@ -38,7 +38,7 @@ People: Jas Sidhu is the owner (client). Asim is the SEO lead and your user. The
 1. The approved structure is docs/URL-PLAN.csv. Every URL in it must behave exactly as written: 200 for KEEP and NEW, a single-hop 301 for 301 rows. Do not add, rename or remove URLs without Asim's approval. Put suggestions in docs/PROPOSED-CHANGES.md.
 2. Lowercase, trailing slash always (`trailingSlash: 'always'`, `build.format: 'directory'`). Keep the American spelling in `/neighborhoods/`.
 3. Do not generate a page at any 301 source URL. A real file beats a Netlify redirect.
-4. Redirects live in `public/_redirects`. Start from docs/REDIRECTS.proposed. The wildcard 410 rules for the old hack spam stay.
+4. Redirects live in `public/_redirects`. Written in Phase 1 from docs/REDIRECTS.proposed (slash and no-slash forms, one hop). The wildcard 410 rules for the old hack spam stay. Create no page or content file for a 301 URL. Move its useful content into the target first and log it in docs/MERGE-REPORT.md. Ask Asim before adding any redirect that is not in docs/URL-PLAN.csv.
 5. robots.txt on production must not disallow the spam paths that return 410, or Google cannot see the 410. The current robots.txt does this wrongly and also blocks `/?`. Fix it.
 6. Reserved paths, never create real pages here: /collect, /casino, /category, /tag, /author, /attachment, /page, /feed, any .shtml.
 7. Old image URLs under `/wp-content/uploads/` must keep working at the same path. Copy that folder into `public/wp-content/uploads/`. New images may use Astro image handling.
@@ -51,6 +51,7 @@ People: Jas Sidhu is the owner (client). Asim is the SEO lead and your user. The
 
 Details and the checklist are in docs/MIGRATION-CHECKS.md. Run `npm run test:parity` before every staging review and before launch.
 
+- Every content file has `datePublished` (real, never changed), `updated` (only on real edits) and `status` (`published` for pages live today, `draft` for the four legal pages). Draft pages stay out of the sitemap, menus and internal links and are noindex. `test:urls` fails at launch if any planned URL is still draft.
 - Keep each page's real published date from docs/CURRENT-PAGES.csv, on the page and in schema. `dateModified` and sitemap `lastmod` change only when the content really changes.
 - Useful text on a KEEP page may not shrink by more than 5 percent without a logged reason. Titles, H1s and meta descriptions on indexed pages change only as logged in docs/TITLE-CHANGES.md.
 - When a page is merged, move the useful text from it to the target page first.
@@ -111,7 +112,7 @@ Follow docs/SEO-SPEC.md for titles, headings, schema, internal links and page bl
 
 ## Design
 
-Free hand, with two fixed points: keep the Palermo logo as is (`/wp-content/uploads/brand/palermo-logo-blue.png`) and make mobile the first design target. See docs/DESIGN-BRIEF.md. Propose the design tokens and a homepage layout to Asim and wait for approval before building every template.
+Free hand, with two fixed points: keep the Palermo logo as is (`/wp-content/uploads/brand/palermo-logo-blue.png`) and make mobile the first design target. See docs/DESIGN-BRIEF.md. Asim supplies a design ideas PDF in docs/design/. In Phase 1b read all of it and write docs/DESIGN-NOTES.md, then wait for Asim's confirmation before Phase 2. Where the PDF and docs/DESIGN-BRIEF.md differ on look and layout, the PDF wins. Where they differ on SEO, security or URLs, the docs win and you tell Asim. Propose the design tokens and a homepage layout to Asim and wait for approval before building every template.
 
 ## Copy style
 

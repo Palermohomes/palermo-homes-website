@@ -20,18 +20,34 @@ Done when: staging URL loads, is noindex, and the live site (`main`) is untouche
 
 ## Phase 1. Content extraction
 
-- [ ] Write `scripts/extract-content.mjs`. It reads the 69 pages in `legacy/` and writes Markdown or JSON into `src/content/` with headings, body text, FAQs, image paths and alt text. Use docs/CURRENT-PAGES.csv as the checklist.
+- [ ] Write `scripts/extract-content.mjs`. It reads the pages in `legacy/` and writes Markdown or JSON into `src/content/` with headings, body text, FAQs, image paths and alt text. Use docs/CURRENT-PAGES.csv as the checklist.
+- [ ] Apply the URL plan. Create content files only for URLs whose action in docs/URL-PLAN.csv is KEEP or NEW. Never create a page or content file for a 301 URL.
+- [ ] For each of the 12 redirected URLs, move the useful text, headings, FAQs and images into the target page's content file before dropping it. The target must cover the same topic or place. List what moved in `docs/MERGE-REPORT.md`.
+- [ ] Write `public/_redirects` now from docs/REDIRECTS.proposed: the 301s plus the 410 spam rules. Keep both slash and no-slash forms, one hop only. Phase 4 only tests and refines it.
+- [ ] If Asim adds the Ahrefs or Search Console Links export, propose 301s for old URLs that have backlinks, pointing to the closest same-intent page, in docs/PROPOSED-CHANGES.md. Ask before adding any redirect that is not in docs/URL-PLAN.csv.
+- [ ] Every content file gets `datePublished` (the real date from docs/CURRENT-PAGES.csv, never changed), `updated` (changes only when the content really changes) and `status`. Pages live today are `status: published`. New pages (the four legal pages) are `status: draft`. Draft pages stay out of the sitemap, the menus and all internal links, and are noindex if built. `test:urls` must fail at launch if any URL in the plan is still draft.
 - [ ] Collections: `pages`, `locations` (areas and neighbourhoods, with a `parent` field), `projects` (19), `guides` (10).
 - [ ] Projects need these fields: slug, title, h1, street, town, location tags (for example `west-kelowna` and `lakeview-heights`), published date, images (in order), description. Use the location tags in docs/URL-PLAN.csv notes (each project's "Shows on" text).
 - [ ] Do not rewrite copy in this phase. Extract exactly. Strip Divi markup and `et_pb` classes. Do not copy themes, et-cache, wp-includes, plugins or any WordPress or jQuery scripts (see CLAUDE.md, cleanup section).
 - [ ] Keep each page's `date_published` from docs/CURRENT-PAGES.csv in its content file. Add an `updated` field that starts as the old modified date and changes only on real edits.
 - [ ] Write `docs/CONTENT-AUDIT.md`: for each page, word count before and a list of blocks you could not extract cleanly.
 
-Done when: every page in CURRENT-PAGES.csv has a content file, and word counts match the crawl within 5 percent.
+Done when: every KEEP and NEW URL in docs/URL-PLAN.csv has a content file, no 301 URL has one, docs/MERGE-REPORT.md lists what moved, `public/_redirects` exists, and word counts match the crawl within 5 percent (merged targets may grow).
+
+## Phase 1b. Design reference
+
+- [ ] Asim puts a PDF of website design ideas in `docs/design/`. Read the whole PDF.
+- [ ] Write `docs/DESIGN-NOTES.md` with: the overall look (layout, colours, fonts, spacing, components); section ideas for each page; anything that conflicts with docs/SEO-SPEC.md or the URL plan (for example sliders, pop-ups, text inside images, heavy animation); and questions for Asim.
+- [ ] Where the PDF and docs/DESIGN-BRIEF.md differ on look and layout, the PDF wins. Where they differ on SEO, security or URLs, the docs win, and Asim is told.
+- [ ] Stop and wait for Asim's confirmation before starting Phase 2.
+
+Done when: Asim confirms DESIGN-NOTES.md.
 
 ## Phase 2. Design system and layout
 
-- [ ] Read docs/DESIGN-BRIEF.md. Propose design tokens (colour from the logo, type scale, spacing) and one homepage layout as a static preview. Stop and wait for Asim's approval.
+Start only after Asim confirms Phase 1b.
+
+- [ ] Read docs/DESIGN-NOTES.md (the PDF wins on look and layout) and docs/DESIGN-BRIEF.md. Propose design tokens (colour from the logo, type scale, spacing) and one homepage layout as a static preview. Stop and wait for Asim's approval.
 - [ ] Build: base layout, SEO head component (title, description, canonical, robots, Open Graph, Twitter, one JSON-LD slot), header and mobile menu, footer (NAP, services, areas, legal links), breadcrumbs, button, CTA band, contact form, project card, project gallery, FAQ accordion, location list.
 - [ ] Menu: Home, Services (GC, Renovations), Service Areas, Projects, Guides, About, Contact. Phone number click-to-call in the header on mobile.
 - [ ] Contact form works with Netlify Forms and the Slack function.
@@ -55,7 +71,7 @@ Done when: every URL in docs/URL-PLAN.csv with action KEEP or NEW returns 200 on
 
 ## Phase 4. Redirects, sitemap, robots, tests
 
-- [ ] `public/_redirects` from docs/REDIRECTS.proposed. Check that no page exists at a 301 source URL.
+- [ ] Test and refine `public/_redirects` (written in Phase 1). Check that no page exists at a 301 source URL.
 - [ ] Sitemap: final indexable URLs only, real `lastmod` from content dates (store a `updated` date per content file). No priority or changefreq needed.
 - [ ] robots.txt per CLAUDE.md. Production: allow all, link the sitemap, no spam path disallows. Staging: disallow all.
 - [ ] Custom 404 page.

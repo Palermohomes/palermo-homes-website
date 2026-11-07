@@ -17,10 +17,12 @@ The point of a migration is that Google sees the same site, only better. These c
 | Schema | At least the same types. Nothing invalid. |
 | Published date | The real `date_published` from docs/CURRENT-PAGES.csv is kept in the page and in schema. |
 | Modified date | Changes only when the content really changes. Never set to the build date. |
+| Status | Pages live today are `published`. New pages start as `draft` (out of sitemap, menus and links, noindex). No URL in the plan may still be `draft` at launch. |
 
 ## Merged and redirected pages
 
-- Before a page is merged, the text worth keeping from it is moved to the target page (for example anything useful on `/neighborhoods/kettle-valley/` that is not on Upper Mission). List what moved in docs/PARITY-REPORT.md.
+- No page or content file exists for a 301 URL. Before a page is dropped, its useful text, headings, FAQs and images are moved to the target page's content file (for example anything useful on `/neighborhoods/kettle-valley/` that is not on Upper Mission). The target must cover the same topic or place. List what moved in docs/MERGE-REPORT.md.
+- A 301 for an old URL with backlinks that is not in docs/URL-PLAN.csv needs Asim's approval first.
 - Each 301 is one hop, to a final 200 page, with the target topic matching the source topic.
 
 ## Old site facts to protect
