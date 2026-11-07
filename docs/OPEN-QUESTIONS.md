@@ -19,3 +19,6 @@ Keep this list current. Add a line whenever you hit a fact you cannot get from t
 | 13 | Search Console reason for the not-indexed pages: "Discovered, currently not indexed" or "Crawled, currently not indexed". | Asim | Content priorities | Open |
 | 14 | Legal page text (privacy, terms, disclaimer, cookie policy) reviewed by a lawyer or a BC-compliant generator. | Asim | Legal pages | Open |
 | 15 | Google Business Profile URL and review link. | Asim | Footer, contact page | Open |
+| 16 | Real publish dates for 8 live pages with no date in the crawl: /services/, /services/general-contracting/, /services/renovations/, /service-areas/, /projects/, /guides/, /about/jas-sidhu/, /faq/. Last-modified dates are also missing for the first seven. Search Console or the WordPress export may have them. Left as null, not invented. | Asim | datePublished, dateModified, sitemap lastmod, schema | Open |
+| 17 | The homepage hero is a CSS background image (Cabernet-07) with no alt text. Which image and alt text should the new hero use? | Asim | Homepage spec | Open |
+| 18 | Titles over 60 characters on 14 indexed pages and descriptions under 120 characters on 11 (listed in docs/CONTENT-AUDIT.md). Kept as they are in Phase 1. Change them only with a TITLE-CHANGES.md entry. | Asim | Title changes | Open |

@@ -14,13 +14,16 @@
     "test:redirects": "node scripts/check-redirects.mjs",
     "test:images": "node scripts/check-images.mjs",
     "test:parity": "node scripts/check-parity.mjs",
-    "test:security": "node scripts/check-security.mjs"
+    "test:security": "node scripts/check-security.mjs",
+    "extract": "node scripts/extract-content.mjs"
   },
   "dependencies": {
     "astro": "^7.4.7"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.12",
+    "cheerio": "^1.1.2",
+    "image-size": "^2.0.2",
     "typescript": "^6.0.3"
   }
 }
