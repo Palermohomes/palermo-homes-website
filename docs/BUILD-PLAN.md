@@ -56,7 +56,9 @@ Done when: Asim approves the look on staging and the form delivers a test lead t
 
 ## Phase 3. Templates and pages (in this order)
 
-1. Homepage (blueprint in SEO-SPEC)
+Each page is built only from Asim's spec (the design PDF or chat, using docs/pages/_TEMPLATE.md). Build one page at a time and wait for its spec. Do not invent sections, text or design. The SEO-SPEC blueprints are defaults that Asim's spec overrides.
+
+1. Homepage
 2. Services: hub, general contracting, renovations
 3. Service areas: hub and six place pages
 4. Neighborhoods: 11 pages
@@ -65,7 +67,7 @@ Done when: Asim approves the look on staging and the form delivers a test lead t
 7. Company: about, Jas Sidhu, awards, contact, faq
 8. Legal: four pages with placeholder text clearly marked `TODO(legal)`, linked from the footer
 
-Rules for every page: use the blueprint for its type, use the current text until a content brief replaces it, show only real projects for that place, add breadcrumbs and JSON-LD. Keep current titles and H1s on indexed pages unless SEO-SPEC changes them. Log every title or H1 change in `docs/TITLE-CHANGES.md` (old, new, reason).
+Rules for every page: follow Asim's spec for sections, text, images, links and call to action (the SEO-SPEC blueprint only fills gaps he leaves, and only after asking him), keep the automatic parts automatic (head tags, canonical, schema, breadcrumbs, image attributes, URL plan), tell Asim before building if the spec conflicts with the SEO rules or URL plan, after each page show the localhost address and list what was built, show only real projects for that place, add breadcrumbs and JSON-LD. Keep current titles and H1s on indexed pages unless SEO-SPEC changes them. Log every title or H1 change in `docs/TITLE-CHANGES.md` (old, new, reason).
 
 Done when: every URL in docs/URL-PLAN.csv with action KEEP or NEW returns 200 on staging.
 

@@ -110,6 +110,15 @@ Follow docs/SEO-SPEC.md for titles, headings, schema, internal links and page bl
 - Automatic links: breadcrumbs, projects in this place, neighbourhoods in this city, nearby areas, header and footer. Links inside body text are written by hand, following docs/INTERNAL-LINKS.md when Asim provides it.
 - No admin login, no database, no custom CMS. After launch a git-based editor (Keystatic or similar) can sit on top of the same files if Jas wants to add projects himself. Do not build one now.
 
+## Page specs from Asim
+
+Asim designs every page. The page blueprints in docs/SEO-SPEC.md are only defaults, and Asim's page specs override them. He gives a spec for each page, in the design PDF or in chat: the sections in order, the text, images, links and call to action. A blank spec form is docs/pages/_TEMPLATE.md.
+
+1. Build one page at a time and wait for Asim's spec before building it. Never invent sections, text or design.
+2. The automatic parts stay automatic: head tags, canonical, schema, breadcrumbs, image attributes and the URL plan.
+3. If a spec conflicts with the SEO rules or the URL plan, tell Asim before building and explain why.
+4. After each page, show the localhost address and list what was built.
+
 ## Design
 
 Free hand, with two fixed points: keep the Palermo logo as is (`/wp-content/uploads/brand/palermo-logo-blue.png`) and make mobile the first design target. See docs/DESIGN-BRIEF.md. Asim supplies a design ideas PDF in docs/design/. In Phase 1b read all of it and write docs/DESIGN-NOTES.md, then wait for Asim's confirmation before Phase 2. Where the PDF and docs/DESIGN-BRIEF.md differ on look and layout, the PDF wins. Where they differ on SEO, security or URLs, the docs win and you tell Asim. Propose the design tokens and a homepage layout to Asim and wait for approval before building every template.
