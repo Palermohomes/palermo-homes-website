@@ -1,0 +1,18 @@
+---
+import { isIndexable } from '../lib/indexing.mjs';
+const robots = isIndexable() ? 'index, follow' : 'noindex, nofollow';
+---
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Palermo Homes (staging placeholder)</title>
+    <meta name="description" content="Placeholder page for the Palermo Homes rebuild." />
+    <meta name="robots" content={robots} />
+  </head>
+  <body>
+    <h1>Palermo Homes</h1>
+    <p>Placeholder page. The rebuild starts in Phase 1.</p>
+  </body>
+</html>
